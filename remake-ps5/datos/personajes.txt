@@ -1,0 +1,49 @@
+# personajes.txt - generado por remake-ps5/personajes_gen.py. id|nombre_es|nombre_en|saga|nivel|personalidad|entorno|lema_es|lema_en
+# sagas (orden del modo historia): reino ciudad noah dragones campeonato faraon
+tea|Téa Gardner|Téa Gardner|reino|1|defensivo|tea|¡La amistad es nuestra mejor carta!|Friendship is our best card!
+mokuba|Mokuba Kaiba|Mokuba Kaiba|reino|1|equilibrado|mokuba|¡Mi hermano me enseñó a ganar!|My big brother taught me how to win!
+solomon|Solomon Muto|Solomon Muto|reino|2|calculador|solomon|Las cartas antiguas guardan secretos.|Ancient cards hold secrets.
+weevil|Weevil Underwood|Weevil Underwood|reino|2|tramposo|weevil|¡Jijiji! Ya caíste en mi trampa.|Hehehe! You've fallen into my trap.
+rex_raptor|Rex Raptor|Rex Raptor|reino|2|agresivo|rex_raptor|¡Mis dinosaurios te van a pisotear!|My dinosaurs will stomp you flat!
+bonz|Bonz (con Sid y Zigor)|Bonz (with Sid and Zigor)|reino|2|paciente|bonz|Lo que entierras, vuelve...|Whatever you bury comes back...
+ryou_bakura|Bakura Ryou|Ryou Bakura|reino|2|paciente|ryou_bakura|¿Jugamos a Monster World?|Shall we play Monster World?
+mako|Mako Tsunami|Mako Tsunami|reino|3|paciente|mako|¡El mar es mi aliado!|The sea is my ally!
+panik|PaniK|PaniK|reino|3|defensivo|panik|En la oscuridad, nadie te oye perder.|In the dark, no one hears you lose.
+hermanos_paradoja|Hermanos Paradoja|The Paradox Brothers|reino|3|defensivo|hermanos_paradoja|Uno dice la verdad... el otro miente.|One tells the truth... the other lies.
+shadi|Shadi|Shadi|reino|3|paciente|shadi|La balanza del Milenio juzgará tu alma.|The Millennium Scale shall judge your soul.
+mai|Mai Valentine|Mai Valentine|reino|3|agresivo|mai|Mis Arpías te arrancarán los puntos de vida.|My Harpies will tear your Life Points apart.
+joey|Joey Wheeler|Joey Wheeler|reino|4|temerario|joey|¡Confía en tu corazón... y en los dados!|Trust your heart... and the dice!
+bandit_keith|Bandit Keith|Bandit Keith|reino|4|tramposo|bandit_keith|En América se juega a mi manera.|In America, we play my way.
+kaiba|Seto Kaiba|Seto Kaiba|reino|5|agresivo|kaiba|¡Contempla el poder del Dragón Blanco de Ojos Azules!|Behold the power of the Blue-Eyes White Dragon!
+pegasus|Maximillion Pegasus|Maximillion Pegasus|reino|5|calculador|pegasus|Mi Ojo del Milenio ya leyó tu mente.|My Millennium Eye has already read your mind.
+espa_roba|Espa Roba|Espa Roba|ciudad|3|farolero|espa_roba|Mis poderes psíquicos ya vieron tu mano.|My psychic powers have already seen your hand.
+duke|Duke Devlin|Duke Devlin|ciudad|3|farolero|duke|Tira los dados... si te atreves.|Roll the dice... if you dare.
+arkana|Arkana|Arkana|ciudad|4|oscuro|arkana|Mi Mago Oscuro es el auténtico.|My Dark Magician is the real one.
+lumis_umbra|Lumis y Umbra|Lumis and Umbra|ciudad|4|control|lumis_umbra|Las máscaras nunca mienten.|Masks never lie.
+ishizu|Ishizu Ishtar|Ishizu Ishtar|ciudad|5|calculador|ishizu|El Collar del Milenio me mostró tu derrota.|The Millennium Necklace has shown me your defeat.
+marik|Marik Ishtar|Marik Ishtar|ciudad|5|control|marik|Mi Cetro del Milenio controla tu destino.|My Millennium Rod controls your fate.
+yami_bakura|Yami Bakura|Yami Bakura|ciudad|6|oscuro|yami_bakura|Bienvenido al Reino de las Sombras.|Welcome to the Shadow Realm.
+yami_marik|Yami Marik|Yami Marik|ciudad|6|oscuro|yami_marik|Tu alma será mía en el Reino de las Sombras.|Your soul will be mine in the Shadow Realm.
+tristan|Tristan Taylor|Tristan Taylor|noah|2|temerario|tristan|¡Nadie se mete con mis amigos!|Nobody messes with my friends!
+serenity|Serenity Wheeler|Serenity Wheeler|noah|2|defensivo|serenity|Mi hermano me enseñó a no rendirme.|My brother taught me never to give up.
+cinco_grandes|Los Cinco Grandes|The Big Five|noah|5|calculador|cinco_grandes|Cinco mentes, un solo cuerpo.|Five minds, one body.
+gozaburo|Gozaburo Kaiba|Gozaburo Kaiba|noah|6|agresivo|gozaburo|Yo fundé Kaiba Corp. Yo soy el emperador.|I founded Kaiba Corp. I am the emperor.
+noah|Noah Kaiba|Noah Kaiba|noah|6|calculador|noah|En mi mundo, yo escribo las reglas.|In my world, I write the rules.
+rebecca|Rebecca Hawkins|Rebecca Hawkins|dragones|4|calculador|rebecca|¡Soy la campeona de Estados Unidos!|I'm the U.S. Champion!
+valon|Valon|Valon|dragones|5|temerario|valon|¡Pelea con los puños, no con trucos!|Fight with your fists, not with tricks!
+alister|Alister|Alister|dragones|5|agresivo|alister|Kaiba Corp me lo quitó todo.|Kaiba Corp took everything from me.
+rafael|Rafael|Rafael|dragones|6|defensivo|rafael|Mis Guardianes nunca me abandonarán.|My Guardians will never abandon me.
+yugi|Yugi Muto|Yugi Muto|dragones|6|equilibrado|yugi|Esta vez lucharé con mi propio corazón.|This time I'll duel with my own heart.
+dartz|Dartz|Dartz|dragones|7|control|dartz|El Sello de Oricalco reclamará tu alma.|The Seal of Orichalcos will claim your soul.
+leon|Leon von Schroeder|Leon von Schroeder|campeonato|5|paciente|leon|Cada duelo es un cuento de hadas.|Every duel is a fairy tale.
+zigfried|Zigfried von Schroeder|Zigfried von Schroeder|campeonato|6|farolero|zigfried|¡Las Valquirias cabalgan hacia tu derrota!|The Valkyries ride to your defeat!
+mana|Mana|Mana|faraon|4|temerario|mana|¡Mi maestro estaría orgulloso!|My master would be proud!
+kisara|Kisara|Kisara|faraon|4|defensivo|kisara|En mi interior duerme un dragón blanco.|A white dragon sleeps within me.
+bobasa|Bobasa|Bobasa|faraon|4|temerario|bobasa|¿Comemos primero y luego duelamos?|Shall we eat first and duel later?
+aknamkanon|Faraón Aknamkanon|Pharaoh Aknamkanon|faraon|5|defensivo|aknamkanon|Protegeré mi reino a cualquier precio.|I will protect my kingdom at any cost.
+altos_sacerdotes|Altos Sacerdotes|The High Priests|faraon|6|control|altos_sacerdotes|Seis artículos, seis guardianes.|Six items, six guardians.
+mahad|Sacerdote Mahad|Priest Mahad|faraon|6|calculador|mahad|Mi alma servirá al Faraón por siempre.|My soul will serve the Pharaoh forever.
+sacerdote_seto|Sacerdote Seto|Priest Seto|faraon|7|agresivo|sacerdote_seto|El poder del Dragón Blanco es mío.|The power of the White Dragon is mine.
+bakura_rey|Bakura, Rey de los Ladrones|Thief King Bakura|faraon|7|oscuro|bakura_rey|Kul Elna exige venganza.|Kul Elna demands vengeance.
+zorc|Zorc Necrophades|Zorc Necrophades|faraon|8|oscuro|zorc|Yo soy la oscuridad que devorará el mundo.|I am the darkness that will devour the world.
+yami_yugi|Yami Yugi (Faraón Atem)|Yami Yugi (Pharaoh Atem)|faraon|8|calculador|yami_yugi|Es hora del duelo... ¡el corazón de las cartas está conmigo!|It's time to duel... the heart of the cards is with me!

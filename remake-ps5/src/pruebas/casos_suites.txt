@@ -1,0 +1,173 @@
+# Hojas del mapa (docs/casos_de_uso.md) que prueba una prueba de siempre: ID|prueba (la de ciclo_completo.sh).
+# La hoja queda OK si esa prueba termino sin fallas en el mismo ciclo. Las demas hojas las prueba prueba_casos_uso.cpp.
+CU-FE-COMPILA-PS5|COMPILAR-JUEGO
+# control.h con el mando (prueba_mando.cpp)
+CU-FE-DUELO-MANO-MENU|prueba_mando
+CU-FE-DUELO-COLOCAR-MONSTRUO|prueba_mando
+CU-FE-DUELO-ATACAR|prueba_mando
+CU-FE-DUELO-POSICION|prueba_mando
+CU-FE-DUELO-VOLTEAR|prueba_mando
+CU-FE-DUELO-ACTIVAR-TRAMPA|prueba_mando
+CU-FE-DUELO-CAMPO-ACTIVAR|prueba_mando
+CU-FE-DUELO-CEMENTERIO-VER|prueba_mando
+# el duelo real con el mando (prueba_duelo.cpp)
+CU-FE-DUELO-PREGUNTAS|prueba_duelo
+CU-FE-DUELO-ELEGIR-OBJETIVO|prueba_duelo
+CU-FE-DUELO-ACTIVAR-MAGIA|prueba_duelo
+CU-FE-DUELO-COMPLETO-MANDO|prueba_duelo
+# la ruta real del juego (prueba_juego.cpp)
+CU-FE-DUELO-MESA-IGUAL-DUELO|prueba_juego
+CU-FE-DUELO-ROBO-ANIMADO|prueba_juego
+CU-FE-DUELO-FASES-CUADRADO|prueba_juego
+CU-FE-DUELO-CONTADORES|prueba_juego
+CU-FE-DUELO-VISORES-ZONAS|prueba_juego
+# el constructor (prueba_constructor.cpp)
+CU-FE-CONS-CREAR|prueba_constructor
+CU-FE-CONS-TECLADO|prueba_constructor
+CU-FE-CONS-BUSQUEDA|prueba_constructor
+CU-FE-CONS-FILTROS|prueba_constructor
+CU-FE-CONS-AGREGAR|prueba_constructor
+CU-FE-CONS-QUITAR|prueba_constructor
+CU-FE-CONS-LIMITE-3|prueba_constructor
+CU-FE-CONS-FUSION-EXTRA|prueba_constructor
+CU-FE-CONS-CLASE-RAPIDA|prueba_constructor
+CU-FE-CONS-STICK-DERECHO|prueba_constructor
+CU-FE-CONS-VALIDAR|prueba_constructor
+CU-FE-CONS-GUARDAR-SALIR|prueba_constructor
+CU-FE-CONS-USAR|prueba_constructor
+CU-FE-CONS-COPIAR|prueba_constructor
+CU-FE-CONS-RENOMBRAR|prueba_constructor
+CU-FE-CONS-BORRAR|prueba_constructor
+CU-FE-CONS-TORNEO-COPIAR|prueba_constructor
+CU-FE-CONS-TORNEO-EDITAR|prueba_constructor
+CU-FE-CONS-PROHIBIDAS|prueba_constructor
+CU-FE-CONS-FIRMA-BLOQUEADA|prueba_constructor
+CU-FE-CONS-INICIO-VALIDOS|prueba_constructor
+CU-FE-CONS-LISTA-SOLO-VER|prueba_constructor
+CU-FE-CONS-CARGAR|prueba_constructor
+CU-FE-CONS-MAZO-EN-DUELO|prueba_constructor
+# el sonido (prueba_audio.cpp)
+CU-FE-AUDIO-MEZCLA|prueba_audio
+# el motor de efectos: los casos a mano (prueba_efectos.cpp)
+CU-BE-EFECTOS-CASOS|prueba_efectos
+CU-BE-EFECTOS-ELECCIONES|prueba_efectos
+# la IA clasica (prueba_ia.cpp)
+CU-BE-IA-MAZOS-RIVALES|prueba_ia
+CU-BE-IA-LEGAL|prueba_ia
+CU-BE-IA-TERMINA|prueba_ia
+CU-BE-IA-RESULTADOS-VARIAN|prueba_ia
+CU-BE-IA-NIVEL|prueba_ia
+# planes, mazos dinamicos, memoria y dificultad adaptable (prueba_variedad.cpp)
+CU-BE-IA-PLANES|prueba_variedad
+CU-BE-IA-MAZOS-DINAMICOS|prueba_variedad
+CU-BE-IA-LECTURA-JUGADOR|prueba_variedad
+CU-BE-IA-ADAPTABLE|prueba_variedad
+CU-BE-IA-MEMORIA|prueba_variedad
+# la IA humana (prueba_ia_humana.cpp)
+CU-BE-IA-HUMANA-FUERZA|prueba_ia_humana
+CU-BE-IA-HUMANA-PRESUPUESTO|prueba_ia_humana
+CU-BE-IA-HUMANA-DIVERSIDAD|prueba_ia_humana
+CU-BE-IA-HUMANA-FAROLES|prueba_ia_humana
+CU-BE-IA-HUMANA-ERRORES|prueba_ia_humana
+# la red que aprende (prueba_ia_red.cpp; rama classic-ia-red)
+CU-BE-IA-RED-CARGA|prueba_ia_red
+CU-BE-IA-RED-CORRUPTO|prueba_ia_red
+CU-BE-IA-RED-GRABACION|prueba_ia_red
+CU-BE-IA-RED-AJUSTE|prueba_ia_red
+CU-BE-IA-RED-APAGADA|prueba_ia_red
+CU-BE-IA-RED-FUERZA|prueba_ia_red
+CU-BE-IA-RED-TIEMPO|prueba_ia_red
+CU-BE-IA-RED-DIVERSIDAD|prueba_ia_red
+# los mazos de torneo (prueba_torneo.cpp; rama classic-mazos-torneo)
+CU-BE-TORNEO-LEGAL|prueba_torneo
+CU-BE-TORNEO-ASIGNACION|prueba_torneo
+CU-BE-TORNEO-CARGADOR|prueba_torneo
+CU-BE-TORNEO-IA-COMBOS|prueba_torneo
+CU-BE-TORNEO-GANA-N8|prueba_torneo
+CU-BE-TORNEO-HUMANA|prueba_torneo
+# el modo en linea (prueba_red.cpp; rama classic-red-base)
+CU-RED-SHA256|prueba_red
+CU-RED-SOCKET|prueba_red
+CU-RED-CANAL-PERDIDA|prueba_red
+CU-RED-CAIDA-RECONEXION|prueba_red
+CU-RED-PERDIDA-30S|prueba_red
+CU-RED-VERSION|prueba_red
+CU-RED-CATALOGO|prueba_red
+CU-RED-LOCKSTEP|prueba_red
+CU-RED-PREGUNTAR-SIEMPRE|prueba_red
+CU-RED-AJENOS|prueba_red
+CU-RED-MONEDA|prueba_red
+CU-RED-COMPROMISO|prueba_red
+CU-RED-DESINCRONIZACION|prueba_red
+CU-RED-ABANDONO|prueba_red
+CU-RED-RENDICION|prueba_red
+CU-RED-SALIR|prueba_red
+CU-RED-TRAMPA-MAZO|prueba_red
+CU-RED-TRAMPA-REVELACION|prueba_red
+CU-RED-COMPROMISO-UNIDAD|prueba_red
+CU-RED-UDP-LOOPBACK|prueba_red
+CU-RED-LAN|prueba_red
+CU-RED-RELOJ-AGOTADO|prueba_red
+CU-RED-REVANCHA|prueba_red
+CU-RED-ESPEJO|prueba_red
+CU-RED-ESPEJO-DUELOS|prueba_red
+# la busqueda de rival en linea: sala de Cloudflare y DHT (prueba_sala.cpp + servidor/sala; rama classic-sala)
+CU-RED-SALA-BENCODE|prueba_sala
+CU-RED-SALA-KRPC|prueba_sala
+CU-RED-SALA-DHT-EMPAREJA|prueba_sala
+CU-RED-SALA-VERSION-DISTINTA|prueba_sala
+CU-RED-SALA-ELO|prueba_sala
+CU-RED-SALA-CANCELAR|prueba_sala
+CU-RED-SALA-CADUCIDAD|prueba_sala
+CU-RED-SALA-RESULTADO|prueba_sala
+CU-RED-SALA-ELO-LOCAL|prueba_sala
+CU-RED-SALA-CLIENTE|prueba_sala
+CU-RED-SALA-NO-BLOQUEA|prueba_sala
+CU-RED-SALA-RESPALDO|prueba_sala
+CU-RED-SALA-LIMITE-IP|prueba_sala
+# la conexion directa del modo en linea (prueba_red_nat.cpp; rama classic-red-nat): STUN, DNS, UPnP, codigo y NAT simulados
+CU-RED-NAT-STUN-RFC5769-PETICION|prueba_red_nat
+CU-RED-NAT-STUN-RFC5769-IPV4|prueba_red_nat
+CU-RED-NAT-STUN-RFC5769-IPV6|prueba_red_nat
+CU-RED-NAT-STUN-ERRORES|prueba_red_nat
+CU-RED-NAT-STUN-ARMAR|prueba_red_nat
+CU-RED-NAT-STUN-MAPPED-VIEJO|prueba_red_nat
+CU-RED-NAT-CRC32|prueba_red_nat
+CU-RED-NAT-DNS-CONSULTA|prueba_red_nat
+CU-RED-NAT-DNS-RESPUESTA|prueba_red_nat
+CU-RED-NAT-DNS-ERRORES|prueba_red_nat
+CU-RED-NAT-STUN-LISTA|prueba_red_nat
+CU-RED-NAT-SSDP-ROUTERS|prueba_red_nat
+CU-RED-NAT-SSDP-BUSQUEDA|prueba_red_nat
+CU-RED-NAT-UPNP-DESC-MINIUPNPD|prueba_red_nat
+CU-RED-NAT-UPNP-DESC-FRITZ|prueba_red_nat
+CU-RED-NAT-UPNP-DESC-PPPOE|prueba_red_nat
+CU-RED-NAT-SOAP-ARMAR|prueba_red_nat
+CU-RED-NAT-SOAP-LEER|prueba_red_nat
+CU-RED-NAT-HTTP-CHUNKED|prueba_red_nat
+CU-RED-NAT-NATPMP|prueba_red_nat
+CU-RED-NAT-UPNP-FLUJO|prueba_red_nat
+CU-RED-NAT-UPNP-LIBERAR|prueba_red_nat
+CU-RED-NAT-UPNP-CGNAT|prueba_red_nat
+CU-RED-NAT-CODIGO-IDA-VUELTA|prueba_red_nat
+CU-RED-NAT-CODIGO-CORTO|prueba_red_nat
+CU-RED-NAT-CODIGO-IPV6-MINUSCULAS|prueba_red_nat
+CU-RED-NAT-CODIGO-ERRORES|prueba_red_nat
+CU-RED-NAT-CODIGO-MANUAL|prueba_red_nat
+CU-RED-NAT-RANGOS|prueba_red_nat
+CU-RED-NAT-CLASIFICA-CGNAT|prueba_red_nat
+CU-RED-NAT-CLASIFICA-SIMETRICO|prueba_red_nat
+CU-RED-NAT-CLASIFICA-CONO|prueba_red_nat
+CU-RED-NAT-CLASIFICA-OTROS|prueba_red_nat
+CU-RED-NAT-AVISOS|prueba_red_nat
+CU-RED-NAT-TEXTOS-ES-EN|prueba_red_nat
+CU-RED-NAT-PERFORAR-LOOPBACK|prueba_red_nat
+CU-RED-NAT-PERFORAR-OTRA-SESION|prueba_red_nat
+CU-RED-NAT-PERFORAR-LOOPBACK-V6|prueba_red_nat
+CU-RED-NAT-SIM-MATRIZ|prueba_red_nat
+CU-RED-NAT-SIM-MISMA-LAN|prueba_red_nat
+CU-RED-NAT-SIM-MISMA-IP-PRIVADA|prueba_red_nat
+CU-RED-NAT-SIM-CGNAT-CONO|prueba_red_nat
+CU-RED-NAT-SIM-CGNAT-SIMETRICO|prueba_red_nat
+CU-RED-NAT-SIM-MISMO-CGNAT|prueba_red_nat
+CU-RED-NAT-SIM-PERDIDA|prueba_red_nat

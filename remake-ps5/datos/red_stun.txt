@@ -1,0 +1,9 @@
+# Servidores STUN publicos del modo en linea (rama classic-red-nat, src/red/resolver.h): "nombre puerto [ip_respaldo ...]".
+# El juego resuelve el nombre (DNS propio en la PS5); si no hay DNS usa las IP de respaldo. Se puede editar sin
+# recompilar: la deteccion de NAT simetrico necesita dos servidores con IP distinta (Google y Cloudflare).
+stun.l.google.com 19302 74.125.250.129
+stun.cloudflare.com 3478 162.159.207.0
+stun1.l.google.com 19302
+stun2.l.google.com 19302
+stun3.l.google.com 19302
+stun4.l.google.com 19302

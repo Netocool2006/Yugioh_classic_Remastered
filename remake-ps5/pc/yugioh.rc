@@ -1,0 +1,7 @@
+// Yugioh Classic Remaster (Windows): el manifiesto (UTF-8 en las rutas, DPI por monitor, Windows 10/11) y, si
+// armar_pc.sh lo genero a partir de sce_sys/icon0.png (no va al repo), el icono (recurso 1)
+#include <winres.h>
+1 RT_MANIFEST "yugioh.manifest"
+#ifdef YUGI_TIENE_ICONO
+1 ICON "yugioh.ico"
+#endif

@@ -1,0 +1,136 @@
+# mazos_torneo.txt - generado por remake-ps5/mazos_torneo.py (listas a mano; no editar). Ver docs/mazos_torneo.md
+# D|clave|plan|nombre ES|nombre EN ; M|clave|ids (principal, tal cual) ; X|clave|ids (fusion) ; K|clave|ids clave ; A|rival|claves
+D|md_sirvientes|enjambre|Familia de Sirvientes|Skull Servant Family
+M|md_sirvientes|king_of_the_skull_servants king_of_the_skull_servants king_of_the_skull_servants magical_merchant magical_merchant morphing_jar pyramid_turtle pyramid_turtle pyramid_turtle ryu_kokki sangan spirit_reaper spirit_reaper spirit_reaper vampire_lord vampire_lord skull_servant skull_servant skull_servant book_of_life book_of_life card_destruction delinquent_duo foolish_burial graceful_charity heavy_storm mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial scapegoat smashing_ground swords_of_revealing_light call_of_the_haunted magic_cylinder mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor torrential_tribute
+X|md_sirvientes|
+K|md_sirvientes|king_of_the_skull_servants graceful_charity foolish_burial book_of_life
+D|md_horus|control|Dragón de Llama Negra|Black Flame Dragon
+M|md_horus|breaker_the_magical_warrior d_d_warrior_lady exiled_force horus_the_black_flame_dragon_lv4 horus_the_black_flame_dragon_lv4 horus_the_black_flame_dragon_lv4 horus_the_black_flame_dragon_lv6 horus_the_black_flame_dragon_lv6 horus_the_black_flame_dragon_lv6 horus_the_black_flame_dragon_lv8 horus_the_black_flame_dragon_lv8 kaiser_glider masked_dragon masked_dragon sangan spear_dragon luster_dragon luster_dragon book_of_moon delinquent_duo graceful_charity heavy_storm level_up level_up mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial scapegoat snatch_steal stamping_destruction swords_of_revealing_light call_of_the_haunted mirror_force ring_of_destruction royal_decree royal_decree sakuretsu_armor sakuretsu_armor torrential_tribute
+X|md_horus|
+K|md_horus|horus_the_black_flame_dragon_lv6 horus_the_black_flame_dragon_lv8 royal_decree level_up
+D|md_exodia_robo|alternativa|Exodia Codicioso|Greedy Goblin Exodia
+M|md_exodia_robo|big_shield_gardna big_shield_gardna exodia_the_forbidden_one magician_of_faith magician_of_faith sangan left_arm_of_the_forbidden_one left_leg_of_the_forbidden_one right_arm_of_the_forbidden_one right_leg_of_the_forbidden_one book_of_moon emergency_provisions emergency_provisions graceful_charity level_limit_area_b level_limit_area_b messenger_of_peace messenger_of_peace pot_of_greed reload reload scapegoat scapegoat scapegoat swords_of_revealing_light upstart_goblin upstart_goblin good_goblin_housekeeping good_goblin_housekeeping gravity_bind gravity_bind jar_of_greed jar_of_greed jar_of_greed magic_cylinder reckless_greed threatening_roar threatening_roar waboku waboku
+X|md_exodia_robo|
+K|md_exodia_robo|good_goblin_housekeeping emergency_provisions upstart_goblin jar_of_greed exodia_the_forbidden_one
+D|md_simochi|bloqueo|Poder del Fuego|Power to the Fire
+M|md_simochi|brain_jacker cannon_soldier des_koala fire_princess fire_princess fire_princess magician_of_faith magician_of_faith morphing_jar sangan spirit_reaper spirit_reaper stealth_bird stealth_bird graceful_charity level_limit_area_b level_limit_area_b ookazi ookazi poison_of_the_old_man poison_of_the_old_man pot_of_greed rain_of_mercy rain_of_mercy rain_of_mercy snatch_steal swords_of_revealing_light upstart_goblin upstart_goblin bad_reaction_to_simochi bad_reaction_to_simochi bad_reaction_to_simochi ceasefire gravity_bind gravity_bind just_desserts just_desserts magic_cylinder ring_of_destruction secret_barrel
+X|md_simochi|
+K|md_simochi|bad_reaction_to_simochi rain_of_mercy fire_princess magic_cylinder
+D|md_guerreros_unidos|agresivo|Coalición Guerrera|Warrior Coalition
+M|md_guerreros_unidos|big_shield_gardna breaker_the_magical_warrior command_knight command_knight command_knight d_d_assailant d_d_warrior_lady don_zaloog exiled_force freed_the_matchless_general gearfried_the_iron_knight gearfried_the_iron_knight goblin_attack_force goblin_attack_force marauding_captain marauding_captain mystic_swordsman_lv2 mystic_swordsman_lv2 obnoxious_celtic_guard zombyra_the_dark axe_of_despair graceful_charity heavy_storm mage_power mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial reinforcement_of_the_army reinforcement_of_the_army snatch_steal the_a_forces the_a_forces the_a_forces united_we_stand call_of_the_haunted mirror_force ring_of_destruction sakuretsu_armor torrential_tribute
+X|md_guerreros_unidos|
+K|md_guerreros_unidos|the_a_forces united_we_stand reinforcement_of_the_army command_knight
+D|goat_control|control|Goat Control|Goat Control
+M|goat_control|abyss_soldier airknight_parshath airknight_parshath asura_priest black_luster_soldier_envoy_of_the_beginning breaker_the_magical_warrior d_d_warrior_lady exiled_force jinzo kycoo_the_ghost_destroyer magician_of_faith morphing_jar sangan spirit_reaper tribe_infecting_virus tsukuyomi book_of_moon delinquent_duo enemy_controller graceful_charity heavy_storm metamorphosis mystical_space_typhoon nobleman_of_crossout nobleman_of_crossout pot_of_greed premature_burial scapegoat scapegoat smashing_ground snatch_steal swords_of_revealing_light call_of_the_haunted magic_cylinder mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor solemn_judgment torrential_tribute
+X|goat_control|thousand_eyes_restrict thousand_eyes_restrict
+K|goat_control|scapegoat metamorphosis thousand_eyes_restrict black_luster_soldier_envoy_of_the_beginning
+D|chaos_control|control|Chaos Control|Chaos Control
+M|chaos_control|airknight_parshath black_luster_soldier_envoy_of_the_beginning breaker_the_magical_warrior chaos_sorcerer chaos_sorcerer chaos_sorcerer d_d_warrior_lady dark_magician_of_chaos exiled_force jinzo kycoo_the_ghost_destroyer magician_of_faith morphing_jar mystic_tomato night_assailant sangan shining_angel tribe_infecting_virus book_of_moon brain_control delinquent_duo enemy_controller graceful_charity heavy_storm mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial scapegoat scapegoat smashing_ground snatch_steal swords_of_revealing_light call_of_the_haunted magic_cylinder mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor torrential_tribute
+X|chaos_control|
+K|chaos_control|chaos_sorcerer black_luster_soldier_envoy_of_the_beginning dark_magician_of_chaos
+D|guerreros_toolbox|agresivo|Guerreros Toolbox|Warrior Toolbox
+M|guerreros_toolbox|black_luster_soldier_envoy_of_the_beginning breaker_the_magical_warrior command_knight command_knight d_d_assailant d_d_assailant d_d_warrior_lady don_zaloog don_zaloog exiled_force freed_the_matchless_general gearfried_the_iron_knight marauding_captain marauding_captain mystic_swordsman_lv2 mystic_swordsman_lv2 obnoxious_celtic_guard sangan tribe_infecting_virus zombyra_the_dark book_of_moon delinquent_duo enemy_controller graceful_charity heavy_storm mystical_space_typhoon nobleman_of_crossout nobleman_of_crossout pot_of_greed premature_burial reinforcement_of_the_army reinforcement_of_the_army smashing_ground snatch_steal call_of_the_haunted mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor torrential_tribute
+X|guerreros_toolbox|
+K|guerreros_toolbox|reinforcement_of_the_army marauding_captain exiled_force d_d_warrior_lady
+D|flip_control|control|Flip Control|Flip Control
+M|flip_control|breaker_the_magical_warrior cyber_jar guardian_sphinx hane_hane hane_hane magical_merchant magician_of_faith magician_of_faith man_eater_bug mask_of_darkness morphing_jar night_assailant night_assailant old_vindictive_magician old_vindictive_magician penguin_soldier penguin_soldier sangan stealth_bird tribe_infecting_virus book_of_moon book_of_moon book_of_moon book_of_taiyou card_destruction delinquent_duo graceful_charity heavy_storm mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial snatch_steal swords_of_revealing_light call_of_the_haunted ceasefire mirror_force ring_of_destruction sakuretsu_armor torrential_tribute
+X|flip_control|
+K|flip_control|book_of_moon magician_of_faith penguin_soldier night_assailant hane_hane
+D|zombis|enjambre|Zombis Vampiro|Vampire Zombies
+M|zombis|breaker_the_magical_warrior dark_dust_spirit despair_from_the_dark goblin_zombie goblin_zombie il_blud patrician_of_darkness pyramid_turtle pyramid_turtle pyramid_turtle ryu_kokki ryu_kokki sangan spirit_reaper spirit_reaper tribe_infecting_virus vampire_lady vampire_lord vampire_lord master_kyonshee book_of_life book_of_life card_of_safe_return delinquent_duo graceful_charity heavy_storm mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial smashing_ground snatch_steal call_of_the_haunted compulsory_evacuation_device magic_cylinder mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor torrential_tribute
+X|zombis|
+K|zombis|pyramid_turtle vampire_lord goblin_zombie book_of_life
+D|gearfried_equipo|combo|Gearfried y Equipos|Gearfried Equip
+M|gearfried_equipo|breaker_the_magical_warrior command_knight command_knight d_d_warrior_lady don_zaloog exiled_force gearfried_the_iron_knight gearfried_the_iron_knight gearfried_the_iron_knight gearfried_the_swordmaster gearfried_the_swordmaster marauding_captain marauding_captain mystic_swordsman_lv2 mystic_swordsman_lv2 sangan tribe_infecting_virus zombyra_the_dark axe_of_despair axe_of_despair big_bang_shot fairy_meteor_crush graceful_charity heavy_storm lightning_blade mage_power malevolent_nuzzler mystical_space_typhoon pot_of_greed premature_burial reinforcement_of_the_army reinforcement_of_the_army release_restraint release_restraint snatch_steal call_of_the_haunted mirror_force ring_of_destruction sakuretsu_armor torrential_tribute
+X|gearfried_equipo|
+K|gearfried_equipo|release_restraint gearfried_the_swordmaster axe_of_despair gearfried_the_iron_knight
+D|escorpiones|tempo|Escorpiones Oscuros|Dark Scorpions
+M|escorpiones|breaker_the_magical_warrior dark_scorpion_burglars dark_scorpion_burglars dark_scorpion_chick_the_yellow dark_scorpion_chick_the_yellow dark_scorpion_cliff_the_trap_remover dark_scorpion_cliff_the_trap_remover dark_scorpion_gorg_the_strong dark_scorpion_gorg_the_strong dark_scorpion_meanae_the_thorn dark_scorpion_meanae_the_thorn don_zaloog don_zaloog don_zaloog exiled_force marauding_captain marauding_captain sangan spirit_reaper book_of_moon delinquent_duo graceful_charity heavy_storm mustering_of_the_dark_scorpions mustering_of_the_dark_scorpions mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial reinforcement_of_the_army reinforcement_of_the_army snatch_steal swords_of_revealing_light call_of_the_haunted dark_scorpion_combination mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor torrential_tribute
+X|escorpiones|
+K|escorpiones|mustering_of_the_dark_scorpions dark_scorpion_combination don_zaloog dark_scorpion_meanae_the_thorn
+D|monarcas|control|Monarcas|Monarchs
+M|monarcas|black_luster_soldier_envoy_of_the_beginning breaker_the_magical_warrior d_d_warrior_lady exiled_force granmarg_the_rock_monarch magician_of_faith mobius_the_frost_monarch mobius_the_frost_monarch morphing_jar mystic_tomato mystic_tomato night_assailant sangan spirit_reaper thestalos_the_firestorm_monarch tribe_infecting_virus zaborg_the_thunder_monarch zaborg_the_thunder_monarch book_of_moon book_of_moon brain_control delinquent_duo enemy_controller graceful_charity heavy_storm mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial scapegoat scapegoat snatch_steal soul_exchange call_of_the_haunted mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor solemn_judgment torrential_tribute
+X|monarcas|
+K|monarcas|zaborg_the_thunder_monarch mobius_the_frost_monarch soul_exchange mystic_tomato
+D|maquinas|agresivo|Máquinas Antiguas|Ancient Machines
+M|maquinas|ancient_gear_beast ancient_gear_beast ancient_gear_golem breaker_the_magical_warrior cyber_dragon cyber_dragon cyber_dragon cyber_jar d_d_warrior_lady drillroid drillroid exiled_force jinzo reflect_bounder sangan tribe_infecting_virus mechanicalchaser robotic_knight robotic_knight book_of_moon delinquent_duo graceful_charity heavy_storm limiter_removal limiter_removal machine_duplication mystical_space_typhoon nobleman_of_crossout nobleman_of_crossout pot_of_greed premature_burial smashing_ground snatch_steal swords_of_revealing_light call_of_the_haunted mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor torrential_tribute
+X|maquinas|
+K|maquinas|limiter_removal cyber_dragon machine_duplication ancient_gear_golem
+D|quema_bloqueo|bloqueo|Quema y Bloqueo|Burn Stall
+M|quema_bloqueo|big_shield_gardna big_shield_gardna cannon_soldier des_koala des_koala magician_of_faith magician_of_faith morphing_jar sangan spirit_reaper spirit_reaper stealth_bird stealth_bird delinquent_duo graceful_charity level_limit_area_b level_limit_area_b messenger_of_peace messenger_of_peace ookazi ookazi poison_of_the_old_man pot_of_greed scapegoat scapegoat swords_of_revealing_light tremendous_fire tremendous_fire wave_motion_cannon wave_motion_cannon ceasefire gravity_bind gravity_bind just_desserts just_desserts magic_cylinder ring_of_destruction secret_barrel secret_barrel waboku
+X|quema_bloqueo|
+K|quema_bloqueo|wave_motion_cannon level_limit_area_b gravity_bind messenger_of_peace stealth_bird
+D|guardianes_tumba|control|Guardianes de la Tumba|Gravekeepers
+M|guardianes_tumba|breaker_the_magical_warrior d_d_warrior_lady exiled_force gravekeeper_s_assailant gravekeeper_s_assailant gravekeeper_s_cannonholder gravekeeper_s_chief gravekeeper_s_curse gravekeeper_s_curse gravekeeper_s_guard gravekeeper_s_guard gravekeeper_s_spear_soldier gravekeeper_s_spear_soldier gravekeeper_s_spy gravekeeper_s_spy gravekeeper_s_spy sangan spirit_reaper book_of_moon book_of_moon delinquent_duo graceful_charity heavy_storm mystical_space_typhoon necrovalley necrovalley necrovalley nobleman_of_crossout pot_of_greed royal_tribute smashing_ground snatch_steal swords_of_revealing_light mirror_force ring_of_destruction rite_of_spirit sakuretsu_armor sakuretsu_armor solemn_judgment torrential_tribute
+X|guardianes_tumba|
+K|guardianes_tumba|necrovalley gravekeeper_s_spy gravekeeper_s_chief gravekeeper_s_assailant
+D|relinquished|combo|Ritual Relinquished|Relinquished Ritual
+M|relinquished|breaker_the_magical_warrior d_d_warrior_lady exiled_force magician_of_faith magician_of_faith manju_of_the_ten_thousand_hands manju_of_the_ten_thousand_hands mystic_tomato sangan senju_of_the_thousand_hands sonic_bird sonic_bird spirit_reaper tribe_infecting_virus relinquished relinquished relinquished black_illusion_ritual black_illusion_ritual black_illusion_ritual book_of_moon brain_control delinquent_duo enemy_controller graceful_charity heavy_storm mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial scapegoat scapegoat snatch_steal swords_of_revealing_light call_of_the_haunted mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor torrential_tribute
+X|relinquished|
+K|relinquished|relinquished black_illusion_ritual sonic_bird manju_of_the_ten_thousand_hands
+D|dragones_flauta|combo|Señor de los Dragones|Lord of D. Flute
+M|dragones_flauta|exiled_force kaiser_glider lord_of_d lord_of_d masked_dragon masked_dragon mirage_dragon sangan spear_dragon spear_dragon twin_headed_behemoth tyrant_dragon blue_eyes blue_eyes blue_eyes luster_dragon luster_dragon luster_dragon luster_dragon_2 luster_dragon_2 red_eyes book_of_moon delinquent_duo dragon_s_gunfire graceful_charity heavy_storm mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial snatch_steal stamping_destruction swords_of_revealing_light the_flute_of_summoning_dragon the_flute_of_summoning_dragon call_of_the_haunted mirror_force ring_of_destruction sakuretsu_armor torrential_tribute
+X|dragones_flauta|
+K|dragones_flauta|lord_of_d the_flute_of_summoning_dragon blue_eyes
+D|toons|combo|Toons|Toons
+M|toons|breaker_the_magical_warrior d_d_warrior_lady magician_of_faith morphing_jar sangan toon_cannon_soldier toon_cannon_soldier toon_gemini_elf toon_gemini_elf toon_gemini_elf toon_goblin_attack_force toon_goblin_attack_force toon_masked_sorcerer toon_masked_sorcerer toon_mermaid toon_summoned_skull toon_alligator book_of_moon delinquent_duo graceful_charity heavy_storm mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial scapegoat snatch_steal toon_table_of_contents toon_table_of_contents toon_table_of_contents toon_world toon_world toon_world call_of_the_haunted magic_cylinder mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor torrential_tribute
+X|toons|
+K|toons|toon_world toon_table_of_contents toon_gemini_elf toon_masked_sorcerer
+D|espiritus|tempo|Espíritus|Spirits
+M|espiritus|airknight_parshath asura_priest asura_priest breaker_the_magical_warrior d_d_warrior_lady exiled_force inaba_white_rabbit izanagi jinzo kycoo_the_ghost_destroyer magician_of_faith sangan spirit_reaper susa_soldier susa_soldier tsukuyomi tsukuyomi tsukuyomi yamato_no_kami book_of_moon book_of_moon creature_swap creature_swap delinquent_duo graceful_charity heavy_storm mystical_space_typhoon nobleman_of_crossout pot_of_greed premature_burial scapegoat scapegoat snatch_steal spiritual_energy_settle_machine call_of_the_haunted mirror_force ring_of_destruction sakuretsu_armor sakuretsu_armor torrential_tribute
+X|espiritus|
+K|espiritus|tsukuyomi asura_priest izanagi creature_swap
+D|exodia_biblioteca|alternativa|Exodia Biblioteca|Library Exodia
+M|exodia_biblioteca|big_shield_gardna exodia_the_forbidden_one magical_merchant magician_of_faith magician_of_faith royal_magical_library royal_magical_library royal_magical_library sangan left_arm_of_the_forbidden_one left_leg_of_the_forbidden_one right_arm_of_the_forbidden_one right_leg_of_the_forbidden_one book_of_moon book_of_moon delinquent_duo emergency_provisions emergency_provisions graceful_charity level_limit_area_b level_limit_area_b magical_mallet messenger_of_peace messenger_of_peace pot_of_greed reload reload scapegoat scapegoat scapegoat spell_economics swords_of_revealing_light upstart_goblin upstart_goblin gravity_bind gravity_bind jar_of_greed jar_of_greed jar_of_greed waboku
+X|exodia_biblioteca|
+K|exodia_biblioteca|royal_magical_library upstart_goblin reload exodia_the_forbidden_one
+A|noche|escorpiones guardianes_tumba
+A|abisal|monarcas flip_control
+A|acero|guerreros_toolbox gearfried_equipo md_guerreros_unidos
+A|arcano|exodia_biblioteca relinquished espiritus
+A|titan|maquinas
+A|leyenda|dragones_flauta md_horus
+A|caos|chaos_control goat_control
+A|cabra|goat_control flip_control quema_bloqueo
+A|quimera|relinquished toons goat_control
+A|averno|zombis md_sirvientes
+A|kaiba|dragones_flauta
+A|pegasus|toons
+A|marik|flip_control
+A|ishizu|guardianes_tumba
+A|alister|maquinas
+A|valon|gearfried_equipo
+A|joey|gearfried_equipo
+A|yami_bakura|md_sirvientes
+A|yami_marik|md_simochi quema_bloqueo
+A|yugi|md_exodia_robo
+A|gozaburo|exodia_biblioteca
+A|rafael|quema_bloqueo
+A|mahad|chaos_control
+A|altos_sacerdotes|espiritus
+A|dartz|monarcas
+A|sacerdote_seto|md_horus
+A|bakura_rey|escorpiones
+A|zorc|zombis
+A|yami_yugi|goat_control chaos_control
+# md_sirvientes        enjambre    19 monstruos, 14 magias,  7 trampas, 0 fusiones
+# md_horus             control     18 monstruos, 14 magias,  8 trampas, 0 fusiones
+# md_exodia_robo       alternativa 10 monstruos, 17 magias, 13 trampas, 0 fusiones
+# md_simochi           bloqueo     14 monstruos, 15 magias, 11 trampas, 0 fusiones
+# md_guerreros_unidos  agresivo    20 monstruos, 15 magias,  5 trampas, 0 fusiones
+# goat_control         control     16 monstruos, 16 magias,  8 trampas, 2 fusiones
+# chaos_control        control     18 monstruos, 15 magias,  7 trampas, 0 fusiones
+# guerreros_toolbox    agresivo    20 monstruos, 14 magias,  6 trampas, 0 fusiones
+# flip_control         control     20 monstruos, 14 magias,  6 trampas, 0 fusiones
+# zombis               enjambre    20 monstruos, 12 magias,  8 trampas, 0 fusiones
+# gearfried_equipo     combo       18 monstruos, 17 magias,  5 trampas, 0 fusiones
+# escorpiones          tempo       19 monstruos, 14 magias,  7 trampas, 0 fusiones
+# monarcas             control     18 monstruos, 15 magias,  7 trampas, 0 fusiones
+# maquinas             agresivo    19 monstruos, 15 magias,  6 trampas, 0 fusiones
+# quema_bloqueo        bloqueo     13 monstruos, 17 magias, 10 trampas, 0 fusiones
+# guardianes_tumba     control     18 monstruos, 15 magias,  7 trampas, 0 fusiones
+# relinquished         combo       17 monstruos, 17 magias,  6 trampas, 0 fusiones
+# dragones_flauta      combo       21 monstruos, 14 magias,  5 trampas, 0 fusiones
+# toons                combo       17 monstruos, 16 magias,  7 trampas, 0 fusiones
+# espiritus            tempo       19 monstruos, 15 magias,  6 trampas, 0 fusiones
+# exodia_biblioteca    alternativa 13 monstruos, 21 magias,  6 trampas, 0 fusiones

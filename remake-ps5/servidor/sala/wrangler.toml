@@ -1,0 +1,15 @@
+# Yugioh Classic Remaster - sala de emparejamiento (Cloudflare Workers, plan gratis). Sin IDs de cuenta: wrangler
+# usa la cuenta con la que se inicio sesion (npx wrangler login). Ver LEEME.md.
+name = "yugioh-classic-sala"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+workers_dev = true
+
+[[durable_objects.bindings]]
+name = "SALA"
+class_name = "Sala"
+
+# plan gratis: los Durable Objects tienen que usar el almacenamiento SQLite
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Sala"]

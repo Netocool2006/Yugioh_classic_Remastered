@@ -1,0 +1,83 @@
+# cartas_firma.txt - generado por personajes_gen.py --firma (no editar a mano): cartas de los personajes
+# que no estan entre las 1690 Goat. nombre TCG|limite|duennos (el jugador la desbloquea al vencer a uno)
+Alligator's Sword|3|joey,serenity
+Alligator's Sword Dragon|3|joey
+Amphibious Bugroth|3|mako
+Ape Fighter|3|tristan
+Arcana Knight Joker|3|yugi
+Armor Breaker|3|valon
+Berfomet|3|solomon,yugi,yami_yugi
+Black Magic Ritual|3|arkana,mahad
+Blue-Eyes Ultimate Dragon|3|kaiba,sacerdote_seto
+Celestial Sword - Eatos|3|rafael
+Chimera the Flying Mythical Beast|3|solomon,yugi,yami_yugi
+Copycat|3|joey
+Crush Card Virus|3|kaiba
+Cyber Commander|3|mokuba,tristan
+Dark Magic Curtain|3|arkana,mahad
+Dark Sanctuary|3|yami_bakura,gozaburo,bakura_rey,zorc
+Diabound Kernel|3|bakura_rey,zorc
+Exchange of the Spirit|3|ishizu
+Fortress Whale|3|mako,dartz
+Fortress Whale's Oath|3|mako,dartz
+Gaap the Divine Soldier|3|altos_sacerdotes,sacerdote_seto
+Gilford the Lightning|3|joey
+Gingerbread House|3|leon
+Glass Slippers|3|leon
+Golden Castle of Stromberg|3|leon,zigfried
+Graveyard and the Hand of Invitation|3|bonz
+Guardian Dreadscythe|3|rafael
+Guardian Eatos|3|rafael
+Happy Lover|3|tea
+Harpie Lady Phoenix Formation|3|mai
+Insect Armor with Laser Cannon|3|weevil
+Insect Queen|3|weevil
+Jack's Knight|3|yugi
+Jinzo - Returner|3|espa_roba
+Jurassic World|3|rex_raptor
+Kairyu-Shin|3|mako
+King's Knight|3|yugi
+Kunai with Chain|3|joey,tristan
+Magician of Black Chaos|3|arkana,mahad
+Magician's Valkyria|3|tea,mana,yami_yugi
+Maiden with Eyes of Blue|3|kisara,sacerdote_seto
+Marshmallon|3|yugi
+Megazowler|3|rex_raptor
+Mischief of the Time Goddess|3|leon
+Multiply|3|yugi
+Mystic Box|3|arkana,aknamkanon,altos_sacerdotes,mahad
+Mystical Beast of Serket|3|marik
+Negate Attack|3|mokuba,kaiba
+Nightmare's Steelcage|3|marik,yami_marik
+Obelisk the Tormentor|1|kaiba,yami_yugi
+Orgoth the Relentless|3|duke
+Orichalcos Sword of Sealing|3|dartz
+Panther Warrior|3|joey,tristan,valon
+Perfectly Ultimate Great Moth|3|weevil
+Prinzessin|3|leon
+Pumpkin Carriage|3|leon
+Queen's Knight|3|yugi
+Reaper Scythe - Dreadscythe|3|rafael
+Ride of the Valkyries|3|leon,zigfried
+Rocket Warrior|3|joey,valon
+Satellite Cannon|3|bandit_keith,alister
+Sentinel of the Seas|3|mako
+Shrink|3|mokuba,kaiba
+Slifer the Sky Dragon|1|yami_yugi
+Sword Arm of Dragon|3|rex_raptor
+Temple of the Kings|3|marik
+The Seal of Orichalcos|3|valon,alister,rafael,dartz
+The White Stone of Legend|3|kisara,sacerdote_seto
+The Winged Dragon of Ra|1|marik,yami_marik,yami_yugi
+Toon Dark Magician Girl|3|pegasus
+Ultimate Tyranno|3|rex_raptor
+Valkyrie Brunhilde|3|zigfried
+Valkyrie Dritte|3|leon,zigfried
+Valkyrie Erste|3|leon,zigfried
+Valkyrie Funfte|3|zigfried
+Valkyrie Sechste|3|zigfried
+Valkyrie Vierte|3|zigfried
+Valkyrie Zweite|3|leon,zigfried
+Virus Cannon|3|kaiba
+Viser Des|3|marik,yami_marik
+Vorse Raider|3|kaiba,sacerdote_seto

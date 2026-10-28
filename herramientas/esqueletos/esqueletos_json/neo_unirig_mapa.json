@@ -1,0 +1,7 @@
+{"bone_0": "Hips", "bone_1": "Spine", "bone_2": "Spine1", "bone_3": "Neck", "bone_10": "Head",
+ "bone_4": "LeftShoulder", "bone_5": "LeftArm", "bone_6": "LeftForeArm",
+ "bone_7": "RightShoulder", "bone_8": "RightArm", "bone_9": "RightForeArm",
+ "bone_15": "LeftUpLeg", "bone_16": "LeftLeg", "bone_17": "LeftFoot", "bone_18": "LeftToeBase",
+ "bone_19": "RightUpLeg", "bone_20": "RightLeg", "bone_21": "RightFoot", "bone_22": "RightToeBase",
+ "bone_11": "PeloDer1", "bone_12": "PeloDer2", "bone_13": "PeloIzq1", "bone_14": "PeloIzq2",
+ "bone_23": "Faldon1", "bone_24": "Faldon2", "bone_25": "Capa1", "bone_26": "Capa2"}

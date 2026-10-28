@@ -1,0 +1,90 @@
+# fondos.txt - generado por remake-ps5/fondos_datos.py. id|tema|respaldo|lugar_es|lugar_en
+# un fondo fotorrealista por personaje (su id = su campo entorno en personajes.txt) y uno por tema (rivales genericos) y uno por carta de campo (campo_<carta>, rama classic-campos)
+pegasus|reino_duelistas_castillo||Castillo de Pegasus en la isla del Reino de los Duelistas|Pegasus's castle on Duelist Kingdom island
+kaiba|dirigible_kaiba||Cubierta del dirigible de Kaiba Corp sobre el mar de nubes|Kaiba Corp blimp deck above a sea of clouds
+yugi|tienda_juegos||Calle de la tienda de juegos Kame en Ciudad Domino|Kame Game Shop street in Domino City
+joey|ciudad_batallas||Muelle del puerto de Ciudad Domino|Domino City harbour pier
+mokuba|dirigible_kaiba||Jardin de la mansion Kaiba|Kaiba mansion garden
+tea|tienda_juegos||Patio de la preparatoria de Ciudad Domino|Domino High School courtyard
+solomon|tienda_juegos||Interior de la tienda de juegos de Solomon|Inside Solomon's game shop
+weevil|isla_bosque||Bosque brumoso de la isla|Misty island forest
+rex_raptor|isla_bosque||Meseta prehistorica volcanica|Prehistoric volcanic plateau
+bonz|acantilado_noche||Cementerio en la isla, de noche|Island graveyard at night
+ryou_bakura|acantilado_noche||Aldea de fantasia medieval al anochecer|Medieval fantasy village at dusk
+mako|playa_mar||Muelle de madera en el oceano|Wooden pier on the ocean
+panik|acantilado_noche||Claro del bosque con braseros, de noche|Forest clearing with braziers at night
+hermanos_paradoja|laberinto||Laberinto subterraneo de piedra|Underground stone labyrinth
+shadi|templo_egipcio||Ruinas de un templo egipcio bajo la luna|Egyptian temple ruins under the moon
+mai|playa_mar||Pradera en lo alto de un acantilado junto al mar|Clifftop meadow by the sea
+bandit_keith|acantilado_noche||Almacen industrial abandonado, de noche|Abandoned industrial warehouse at night
+espa_roba|ciudad_batallas||Plaza del centro de Ciudad Batallas|Battle City downtown plaza
+duke|rascacielos_noche||Calle de juegos y neones de noche|Neon game street at night
+arkana|laberinto||Mazmorra de un mago|A magician's dungeon
+lumis_umbra|rascacielos_noche||Azotea de un rascacielos de noche|Skyscraper rooftop at night
+ishizu|museo_egipcio||Exposicion egipcia del Museo de Domino|Domino Museum Egyptian exhibit
+marik|museo_egipcio||Santuario subterraneo de los guardianes de la tumba|Underground sanctuary of the tomb keepers
+yami_marik|torre_alcatraz||Torre de duelo en la isla de Alcatraz|Duel tower on Alcatraz island
+yami_bakura|reino_sombras||Paramo con una abadia en ruinas bajo luna roja|Moor with a ruined abbey under a red moon
+noah|mundo_virtual_noah||Ciudad de cristal del mundo virtual|Glass city of the virtual world
+gozaburo|mundo_virtual_noah||Fortaleza corporativa en la tormenta|Corporate fortress in the storm
+cinco_grandes|mundo_virtual_noah||Glaciar artico|Arctic glacier
+tristan|mundo_virtual_noah||Selva tropical con cascada|Tropical jungle with waterfall
+serenity|mundo_virtual_noah||Pradera tranquila con cerezos|Peaceful meadow with cherry trees
+dartz|atlantida_oricalco||Atlantida y el Oricalco|Atlantis and the Orichalcos
+rafael|atlantida_oricalco||Isla del naufragio|Shipwreck island
+valon|atlantida_oricalco||Carretera del desierto con mesetas|Desert highway with mesas
+alister|atlantida_oricalco||Ciudad en ruinas por la guerra|War-torn ruined city
+rebecca|tienda_juegos||Calle soleada de San Francisco|Sunny San Francisco street
+leon|estadio_kc||Estadio del Gran Campeonato en Kaiba Land|Grand Championship stadium in Kaiba Land
+zigfried|estadio_kc||Castillo gotico aleman con rosaleda|German gothic castle with rose garden
+yami_yugi|templo_egipcio||Sala de la Ceremonia de Batalla|Chamber of the Ceremonial Battle
+aknamkanon|templo_egipcio||Sala del trono del faraon|Pharaoh's throne room
+sacerdote_seto|templo_egipcio||Patio del gran templo con pilonos|Great temple courtyard with pylons
+mahad|templo_egipcio||Tumba real subterranea|Royal underground tomb
+mana|templo_egipcio||Jardines del palacio junto al Nilo|Palace gardens by the Nile
+kisara|templo_egipcio||Desierto estrellado con un pozo|Starry desert with a well
+bobasa|templo_egipcio||Salon de banquetes del palacio|Palace banquet hall
+altos_sacerdotes|templo_egipcio||Santuario de los Articulos del Milenio|Sanctuary of the Millennium Items
+bakura_rey|reino_sombras||Kul Elna, la aldea en ruinas|Kul Elna, the ruined village
+zorc|reino_sombras||Ciudad egipcia en llamas bajo un cielo oscuro|Egyptian city burning under a dark sky
+tema_tienda_juegos|tienda_juegos|yugi|Calle comercial japonesa|Japanese shopping street
+tema_reino_duelistas_castillo|reino_duelistas_castillo|pegasus|Murallas de una fortaleza medieval|Medieval fortress walls
+tema_isla_bosque|isla_bosque|weevil|Pradera y bosque de una isla|Island meadow and forest
+tema_playa_mar|playa_mar|mako|Playa tropical|Tropical beach
+tema_acantilado_noche|acantilado_noche|bonz|Acantilados de noche|Sea cliffs at night
+tema_laberinto|laberinto|hermanos_paradoja|Catacumbas|Catacombs
+tema_rascacielos_noche|rascacielos_noche|lumis_umbra|Ciudad de noche|City at night
+tema_ciudad_batallas|ciudad_batallas|espa_roba|Cruce de calles de una gran ciudad|Big city crossing
+tema_dirigible_kaiba|dirigible_kaiba|kaiba|Cumbres sobre las nubes|Peaks above the clouds
+tema_torre_alcatraz|torre_alcatraz|yami_marik|Isla prision en el mar|Prison island at sea
+tema_museo_egipcio|museo_egipcio|ishizu|Galeria de antiguedades|Antiquities gallery
+tema_mundo_virtual_noah|mundo_virtual_noah|noah|Paisaje digital|Digital landscape
+tema_atlantida_oricalco|atlantida_oricalco|dartz|Ruinas sumergidas|Sunken ruins
+tema_estadio_kc|estadio_kc|leon|Estadio vacio|Empty stadium
+tema_templo_egipcio|templo_egipcio|sacerdote_seto|Templo egipcio a pleno sol|Egyptian temple in full sun
+tema_reino_sombras|reino_sombras|zorc|Paramo de sombras|Shadow wasteland
+campo_forest|isla_bosque|weevil|Bosque: bosque profundo|Forest: deep forest
+campo_mountain|dirigible_kaiba|tema_dirigible_kaiba|Montana: cumbres rocosas|Mountain: rocky peaks
+campo_sogen|isla_bosque|serenity|Sogen: praderas infinitas|Sogen: endless grasslands
+campo_umi|playa_mar|mako|Umi: oceano profundo|Umi: the deep ocean
+campo_wasteland|templo_egipcio|valon|Paramo: tierra yerma|Wasteland: barren land
+campo_yami|reino_sombras|tema_reino_sombras|Yami: la oscuridad|Yami: the darkness
+campo_a_legendary_ocean|atlantida_oricalco|tema_atlantida_oricalco|Oceano legendario: ruinas sumergidas|A Legendary Ocean: sunken ruins
+campo_umiiruka|playa_mar|tema_playa_mar|Umiiruka: mar crecido|Umiiruka: the rising sea
+campo_rising_air_current|dirigible_kaiba|kaiba|Corriente de aire ascendente: sobre las nubes|Rising Air Current: above the clouds
+campo_gaia_power|isla_bosque|tristan|Poder de Gaia: la tierra viva|Gaia Power: the living earth
+campo_luminous_spark|templo_egipcio|tema_templo_egipcio|Chispa luminosa: el reino de la luz|Luminous Spark: the realm of light
+campo_molten_destruction|torre_alcatraz|zorc|Destruccion fundida: volcan en erupcion|Molten Destruction: erupting volcano
+campo_mystic_plasma_zone|reino_sombras|gozaburo|Zona de plasma mistico|Mystic Plasma Zone
+campo_chorus_of_sanctuary|templo_egipcio|sacerdote_seto|Coro del santuario|Chorus of Sanctuary
+campo_the_sanctuary_in_the_sky|dirigible_kaiba|tema_dirigible_kaiba|El santuario en el cielo|The Sanctuary in the Sky
+campo_dark_sanctuary|reino_sombras|yami_bakura|Santuario oscuro|Dark Sanctuary
+campo_necrovalley|templo_egipcio|shadi|Necrovalle: el valle de las tumbas|Necrovalley: the valley of tombs
+campo_pandemonium|reino_sombras|bakura_rey|Pandemonium: el castillo de los demonios|Pandemonium: the castle of fiends
+campo_jurassic_world|isla_bosque|rex_raptor|Mundo jurasico|Jurassic World
+campo_harpies_hunting_ground|dirigible_kaiba|mai|Coto de caza de las arpias|Harpies Hunting Ground
+campo_golden_castle_of_stromberg|reino_duelistas_castillo|zigfried|Castillo dorado de Stromberg|Golden Castle of Stromberg
+campo_the_seal_of_orichalcos|atlantida_oricalco|dartz|El sello de Oricalco|The Seal of Orichalcos
+campo_fusion_gate|reino_sombras|tema_mundo_virtual_noah|Puerta de fusion: el vortice dimensional|Fusion Gate: the dimensional vortex
+campo_centrifugal_field|rascacielos_noche|gozaburo|Campo centrifugo|Centrifugal Field
+campo_array_of_revealing_light|templo_egipcio|altos_sacerdotes|Formacion de luz reveladora|Array of Revealing Light

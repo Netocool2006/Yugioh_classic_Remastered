@@ -1,0 +1,34 @@
+# Yugioh Classic Remaster (rama classic-fx-md): que animacion hace cada magia/trampa al activarse (efectos_cartas.h).
+# id_de_carta|efecto   (o passcode|efecto). Las que no estan: activacion generica de magia (verde) o de trampa (rosa).
+# Efectos: agujero_negro raigeki fuerza_espejo renacer olla espadas polimerizacion cambio_corazon tormenta_pesada tifon
+#          cilindro_magico plumero mil_cuchillos ritual dado moneda magia trampa
+dark_hole|agujero_negro
+raigeki|raigeki
+lightning_vortex|raigeki
+mirror_force|fuerza_espejo
+monster_reborn|renacer
+premature_burial|renacer
+call_of_the_haunted|renacer
+pot_of_greed|olla
+graceful_charity|olla
+card_of_sanctity|olla
+jar_of_greed|olla
+upstart_goblin|olla
+swords_of_revealing_light|espadas
+polymerization|polimerizacion
+change_of_heart|cambio_corazon
+snatch_steal|cambio_corazon
+heavy_storm|tormenta_pesada
+giant_trunade|tormenta_pesada
+mystical_space_typhoon|tifon
+dust_tornado|tifon
+magic_cylinder|cilindro_magico
+harpie_s_feather_duster|plumero
+thousand_knives|mil_cuchillos
+smashing_ground|mil_cuchillos
+nobleman_of_crossout|mil_cuchillos
+graceful_dice|dado
+skull_dice|dado
+dice_re_roll|dado
+fairy_box|moneda
+second_coin_toss|moneda

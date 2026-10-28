@@ -1,0 +1,51 @@
+# combos.txt - combos conocidos que la IA sabe ejecutar y que los mazos dinamicos meten juntos (rama classic-variedad;
+# lo lee ia::Base::leerVariedad, lo usa src/ia_plan.h). A mano.
+# C|clave|pieza pieza ...|minimo|plan
+#   pieza: id de carta, @papel (letra de roles_cartas.txt), %subtipo (cartas_classic.txt) o &raza (monstruo)
+#   minimo: cuantas piezas distintas tiene que tener a mano (mano + campo propio boca arriba) para que la IA lo busque
+#   plan: agresivo control bloqueo enjambre combo castigo molino tempo alternativa (el plan que lo mete en el mazo)
+C|espadas_quema|swords_of_revealing_light @q|2|bloqueo
+C|gravedad_quema|gravity_bind @q|2|bloqueo
+C|mensajero_muros|messenger_of_peace @w|2|bloqueo
+C|nivel_b_quema|level_limit_area_b @q|2|bloqueo
+C|cuenta_atras|final_countdown swords_of_revealing_light scapegoat gravity_bind messenger_of_peace waboku|2|alternativa
+C|tablero_destino|destiny_board spirit_message_i spirit_message_n spirit_message_a spirit_message_l|1|alternativa
+C|exodia|exodia_the_forbidden_one left_arm_of_the_forbidden_one right_arm_of_the_forbidden_one left_leg_of_the_forbidden_one right_leg_of_the_forbidden_one pot_of_greed graceful_charity upstart_goblin|3|alternativa
+C|soldado_negro|black_luster_ritual black_luster_soldier|2|combo
+C|mundo_toon|toon_world %toon|2|combo
+C|limitador|limiter_removal &Máquina|2|combo
+C|xyz|x_head_cannon y_dragon_head z_metal_tank|2|combo
+C|ofrenda_prestada|change_of_heart snatch_steal brain_control creature_swap|1|tempo
+C|cilindro_muro|magic_cylinder @w|2|castigo
+C|espejo|mirror_force sakuretsu_armor trap_hole bottomless_trap_hole torrential_tribute|1|castigo
+C|reclutas|giant_rat mystic_tomato shining_angel pyramid_turtle|1|enjambre
+C|cabras|scapegoat @e|1|enjambre
+C|gusanos|needle_worm morphing_jar card_destruction|1|molino
+C|tormenta|heavy_storm mystical_space_typhoon harpie_s_feather_duster dust_tornado|1|control
+C|agujero_muros|dark_hole raigeki @w|2|control
+C|hermanas_harpia|harpie_lady harpie_lady_sisters elegant_egotist|2|enjambre
+C|magos|dark_magician thousand_knives|2|combo
+C|equipo_golpe|@g @k|2|agresivo
+# rama classic-mazos-torneo: los combos de los mazos de torneo (datos/mazos_torneo.txt; ver docs/mazos_torneo.md).
+# 6o campo "torneo": solo dan bono al jugarlos; los mazos dinamicos no los usan para armarse (no cambian a los demas rivales)
+C|sirvientes|king_of_the_skull_servants skull_servant card_destruction graceful_charity pyramid_turtle|2|enjambre|torneo
+C|horus_decreto|horus_the_black_flame_dragon_lv6 horus_the_black_flame_dragon_lv4 level_up royal_decree|2|control|torneo
+C|goblin_provisiones|good_goblin_housekeeping emergency_provisions jar_of_greed upstart_goblin reload|2|alternativa|torneo
+C|simochi|bad_reaction_to_simochi rain_of_mercy upstart_goblin fire_princess snatch_steal|2|bloqueo|torneo
+C|fuerzas_a|the_a_forces united_we_stand &Guerrero|2|agresivo|torneo
+C|cabra_metamorfosis|metamorphosis scapegoat|2|control|torneo
+C|caos|chaos_sorcerer black_luster_soldier_envoy_of_the_beginning dark_magician_of_chaos|1|control|torneo
+C|capitan|marauding_captain reinforcement_of_the_army &Guerrero|2|agresivo|torneo
+C|volteo_libro|book_of_moon magician_of_faith penguin_soldier night_assailant hane_hane old_vindictive_magician|2|control|torneo
+C|tortuga_vampiro|pyramid_turtle vampire_lord book_of_life ryu_kokki|2|enjambre|torneo
+C|gearfried|gearfried_the_iron_knight release_restraint axe_of_despair malevolent_nuzzler|2|combo|torneo
+C|escorpiones|mustering_of_the_dark_scorpions don_zaloog dark_scorpion_combination dark_scorpion_burglars|2|tempo|torneo
+C|monarca|zaborg_the_thunder_monarch mobius_the_frost_monarch soul_exchange mystic_tomato scapegoat|2|control|torneo
+C|engranaje|ancient_gear_golem machine_duplication limiter_removal &Máquina|2|agresivo|torneo
+C|ola_bloqueo|wave_motion_cannon level_limit_area_b gravity_bind messenger_of_peace|2|bloqueo|torneo
+C|valle_tumba|necrovalley gravekeeper_s_spy gravekeeper_s_chief gravekeeper_s_assailant|2|control|torneo
+C|relinquished|relinquished black_illusion_ritual sonic_bird manju_of_the_ten_thousand_hands senju_of_the_thousand_hands|2|combo|torneo
+C|flauta|lord_of_d the_flute_of_summoning_dragon blue_eyes|2|combo|torneo
+C|indice_toon|toon_table_of_contents toon_world %toon|2|combo|torneo
+C|espiritus|spiritual_energy_settle_machine tsukuyomi asura_priest creature_swap %espiritu|2|tempo|torneo
+C|biblioteca|royal_magical_library upstart_goblin reload card_of_sanctity emergency_provisions|2|alternativa|torneo

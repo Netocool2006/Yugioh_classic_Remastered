@@ -1,0 +1,157 @@
+# emblematicas.txt - generado por emblematicas_gen.py (no editar a mano): id de carta del juego de cada
+# carta emblematica (remake/diseno/emblematicas.json) y de cada carta firma de los personajes (cartas_firma.txt)
+alligator_s_sword|Alligator's Sword|normal|emblematica
+alligator_s_sword_dragon|Alligator's Sword Dragon|fusion|emblematica
+baby_dragon|Baby Dragon|normal|emblematica
+big_shield_gardna|Big Shield Gardna|efecto|emblematica
+blue_eyes_ultimate_dragon|Blue-Eyes Ultimate Dragon|fusion|emblematica
+blue_eyes|Blue-Eyes White Dragon|normal|emblematica
+buster_blader|Buster Blader|efecto|emblematica
+celtic_guardian|Celtic Guardian|normal|emblematica
+curse_of_dragon|Curse of Dragon|normal|emblematica
+cyber_jar|Cyber Jar|efecto|emblematica
+dark_elf|Dark Elf|efecto|emblematica
+dark_magician|Dark Magician|normal|emblematica
+dark_magician_girl|Dark Magician Girl|efecto|emblematica
+exodia_the_forbidden_one|Exodia the Forbidden One|efecto|emblematica
+flame_swordsman|Flame Swordsman|fusion|emblematica
+gaia|Gaia The Fierce Knight|normal|emblematica
+gaia_the_dragon_champion|Gaia the Dragon Champion|fusion|emblematica
+gearfried_the_iron_knight|Gearfried the Iron Knight|efecto|emblematica
+gemini_elf|Gemini Elf|normal|emblematica
+great_moth|Great Moth|efecto|emblematica
+harpie_lady|Harpie Lady|normal|emblematica
+harpie_lady_sisters|Harpie Lady Sisters|efecto|emblematica
+harpie_s_pet_dragon|Harpie's Pet Dragon|efecto|emblematica
+insect_queen|Insect Queen|efecto|emblematica
+jinzo|Jinzo|efecto|emblematica
+kuriboh|Kuriboh|efecto|emblematica
+labyrinth_wall|Labyrinth Wall|normal|emblematica
+left_arm_of_the_forbidden_one|Left Arm of the Forbidden One|normal|emblematica
+left_leg_of_the_forbidden_one|Left Leg of the Forbidden One|normal|emblematica
+magician_of_faith|Magician of Faith|efecto|emblematica
+panther_warrior|Panther Warrior|efecto|emblematica
+perfectly_ultimate_great_moth|Perfectly Ultimate Great Moth|efecto|emblematica
+red_eyes|Red-Eyes Black Dragon|normal|emblematica
+red_eyes_black_metal_dragon|Red-Eyes Black Metal Dragon|efecto|emblematica
+right_arm_of_the_forbidden_one|Right Arm of the Forbidden One|normal|emblematica
+right_leg_of_the_forbidden_one|Right Leg of the Forbidden One|normal|emblematica
+rocket_warrior|Rocket Warrior|efecto|emblematica
+sangan|Sangan|efecto|emblematica
+silver_fang|Silver Fang|normal|emblematica
+summoned_skull|Summoned Skull|normal|emblematica
+swordsman_of_landstar|Swordsman of Landstar|normal|emblematica
+thousand_dragon|Thousand Dragon|fusion|emblematica
+time_wizard|Time Wizard|efecto|emblematica
+twin_headed_thunder_dragon|Twin-Headed Thunder Dragon|fusion|emblematica
+vorse_raider|Vorse Raider|normal|emblematica
+witch_of_the_black_forest|Witch of the Black Forest|efecto|emblematica
+axe_of_despair|Axe of Despair|magia|emblematica
+black_pendant|Black Pendant|magia|emblematica
+change_of_heart|Change of Heart|magia|emblematica
+dark_hole|Dark Hole|magia|emblematica
+fissure|Fissure|magia|emblematica
+graceful_charity|Graceful Charity|magia|emblematica
+harpie_s_feather_duster|Harpie's Feather Duster|magia|emblematica
+heavy_storm|Heavy Storm|magia|emblematica
+megamorph|Megamorph|magia|emblematica
+monster_reborn|Monster Reborn|magia|emblematica
+mystical_space_typhoon|Mystical Space Typhoon|magia|emblematica
+nobleman_of_crossout|Nobleman of Crossout|magia|emblematica
+polymerization|Polymerization|magia|emblematica
+pot_of_greed|Pot of Greed|magia|emblematica
+premature_burial|Premature Burial|magia|emblematica
+raigeki|Raigeki|magia|emblematica
+scapegoat|Scapegoat|magia|emblematica
+snatch_steal|Snatch Steal|magia|emblematica
+swords_of_revealing_light|Swords of Revealing Light|magia|emblematica
+call_of_the_haunted|Call of the Haunted|trampa|emblematica
+dragon_capture_jar|Dragon Capture Jar|trampa|emblematica
+dust_tornado|Dust Tornado|trampa|emblematica
+gravity_bind|Gravity Bind|trampa|emblematica
+horn_of_heaven|Horn of Heaven|trampa|emblematica
+imperial_order|Imperial Order|trampa|emblematica
+magic_cylinder|Magic Cylinder|trampa|emblematica
+magic_jammer|Magic Jammer|trampa|emblematica
+mirror_force|Mirror Force|trampa|emblematica
+negate_attack|Negate Attack|trampa|emblematica
+reinforcements|Reinforcements|trampa|emblematica
+ring_of_destruction|Ring of Destruction|trampa|emblematica
+royal_decree|Royal Decree|trampa|emblematica
+seven_tools_of_the_bandit|Seven Tools of the Bandit|trampa|emblematica
+solemn_judgment|Solemn Judgment|trampa|emblematica
+torrential_tribute|Torrential Tribute|trampa|emblematica
+trap_hole|Trap Hole|trampa|emblematica
+waboku|Waboku|trampa|emblematica
+amphibious_bugroth|Amphibious Bugroth|fusion|firma
+ape_fighter|Ape Fighter|efecto|firma
+arcana_knight_joker|Arcana Knight Joker|fusion|firma
+armor_breaker|Armor Breaker|efecto|firma
+berfomet|Berfomet|efecto|firma
+black_magic_ritual|Black Magic Ritual|magia|firma
+celestial_sword_eatos|Celestial Sword - Eatos|magia|firma
+chimera_the_flying_mythical_beast|Chimera the Flying Mythical Beast|fusion|firma
+copycat|Copycat|efecto|firma
+crush_card_virus|Crush Card Virus|trampa|firma
+cyber_commander|Cyber Commander|normal|firma
+dark_magic_curtain|Dark Magic Curtain|magia|firma
+dark_sanctuary|Dark Sanctuary|magia|firma
+diabound_kernel|Diabound Kernel|efecto|firma
+exchange_of_the_spirit|Exchange of the Spirit|trampa|firma
+fortress_whale|Fortress Whale|ritual|firma
+fortress_whale_s_oath|Fortress Whale's Oath|magia|firma
+gaap_the_divine_soldier|Gaap the Divine Soldier|efecto|firma
+gilford_the_lightning|Gilford the Lightning|efecto|firma
+gingerbread_house|Gingerbread House|magia|firma
+glass_slippers|Glass Slippers|magia|firma
+golden_castle_of_stromberg|Golden Castle of Stromberg|magia|firma
+graveyard_and_the_hand_of_invitation|Graveyard and the Hand of Invitation|normal|firma
+guardian_dreadscythe|Guardian Dreadscythe|efecto|firma
+guardian_eatos|Guardian Eatos|efecto|firma
+happy_lover|Happy Lover|normal|firma
+harpie_lady_phoenix_formation|Harpie Lady Phoenix Formation|magia|firma
+insect_armor_with_laser_cannon|Insect Armor with Laser Cannon|magia|firma
+jack_s_knight|Jack's Knight|normal|firma
+jinzo_returner|Jinzo - Returner|efecto|firma
+jurassic_world|Jurassic World|magia|firma
+kairyu_shin|Kairyu-Shin|normal|firma
+king_s_knight|King's Knight|efecto|firma
+kunai_with_chain|Kunai with Chain|trampa|firma
+magician_of_black_chaos|Magician of Black Chaos|ritual|firma
+magician_s_valkyria|Magician's Valkyria|efecto|firma
+maiden_with_eyes_of_blue|Maiden with Eyes of Blue|efecto|firma
+marshmallon|Marshmallon|efecto|firma
+megazowler|Megazowler|normal|firma
+mischief_of_the_time_goddess|Mischief of the Time Goddess|magia|firma
+multiply|Multiply|magia|firma
+mystic_box|Mystic Box|magia|firma
+mystical_beast_of_serket|Mystical Beast of Serket|efecto|firma
+nightmare_s_steelcage|Nightmare's Steelcage|magia|firma
+obelisk_the_tormentor|Obelisk the Tormentor|efecto|firma
+orgoth_the_relentless|Orgoth the Relentless|efecto|firma
+orichalcos_sword_of_sealing|Orichalcos Sword of Sealing|magia|firma
+prinzessin|Prinzessin|efecto|firma
+pumpkin_carriage|Pumpkin Carriage|efecto|firma
+queen_s_knight|Queen's Knight|normal|firma
+reaper_scythe_dreadscythe|Reaper Scythe - Dreadscythe|magia|firma
+ride_of_the_valkyries|Ride of the Valkyries|magia|firma
+satellite_cannon|Satellite Cannon|efecto|firma
+sentinel_of_the_seas|Sentinel of the Seas|normal|firma
+shrink|Shrink|magia|firma
+slifer_the_sky_dragon|Slifer the Sky Dragon|efecto|firma
+sword_arm_of_dragon|Sword Arm of Dragon|normal|firma
+temple_of_the_kings|Temple of the Kings|magia|firma
+the_seal_of_orichalcos|The Seal of Orichalcos|magia|firma
+the_white_stone_of_legend|The White Stone of Legend|efecto|firma
+the_winged_dragon_of_ra|The Winged Dragon of Ra|efecto|firma
+toon_dark_magician_girl|Toon Dark Magician Girl|efecto|firma
+ultimate_tyranno|Ultimate Tyranno|efecto|firma
+valkyrie_brunhilde|Valkyrie Brunhilde|efecto|firma
+valkyrie_dritte|Valkyrie Dritte|efecto|firma
+valkyrie_erste|Valkyrie Erste|efecto|firma
+valkyrie_funfte|Valkyrie Funfte|efecto|firma
+valkyrie_sechste|Valkyrie Sechste|efecto|firma
+valkyrie_vierte|Valkyrie Vierte|efecto|firma
+valkyrie_zweite|Valkyrie Zweite|efecto|firma
+virus_cannon|Virus Cannon|trampa|firma
+viser_des|Viser Des|efecto|firma

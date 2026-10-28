@@ -1,0 +1,21 @@
+# cartas_extra.txt - cartas fuera de las 1690 Goat que se anaden al constructor sin duenno (no son firma de personaje).
+# nombre TCG|limite|nota   (las lee preparar_classic.py)
+# Zera the Mant: en el manga/anime solo sale como personaje del juego de rol Monster World (no la usa nadie en un
+# duelo), asi que va como carta extra, sin duenno. Su ritual, Zera Ritual, tambien.
+Zera the Mant|3|ritual de Zera Ritual
+Zera Ritual|3|magia de ritual de Zera the Mant
+# Swift Gaia the Fierce Knight: de la era Goat (TCG 2004) pero fuera de las 1690; la nombra Spiral Spear Strike.
+Swift Gaia the Fierce Knight|3|lo nombra Spiral Spear Strike (perfora)
+# Mazos de torneo (rama classic-torneo-extras): las 10 cartas que faltaban para que las listas de torneo sean exactas
+# (docs/mazos_torneo.md). Fuera de las 1690 de YGOPRODeck (salieron en el TCG despues o no entran en su lista Goat), sin
+# entrada en la banlist Goat del juego: 3, salvo Foolish Burial (limitada en el OCG de 2005 y al llegar al TCG): 1.
+Command Knight|3|Guerreros (Coalicion, Toolbox, Gearfried)
+Cyber Dragon|3|Maquinas Antiguas (invocacion especial si solo el rival controla monstruos)
+Foolish Burial|1|Familia de Sirvientes
+Goblin Zombie|3|Zombis Vampiro (busca un Zombi de DEF 1200 o menos)
+Il Blud|3|Zombis Vampiro (Geminis)
+Magical Mallet|3|Exodia Biblioteca
+Izanagi|3|Espiritus (invocacion especial desterrando un Espiritu de la mano)
+Yamato-no-Kami|3|Espiritus (Espiritu; invocacion especial desterrando un Espiritu del cementerio)
+Obnoxious Celtic Guard|3|Guerreros (no la destruye en batalla un monstruo de 1900 ATK o mas)
+Drillroid|3|Maquinas Antiguas (destruye al defensor en defensa antes del calculo)

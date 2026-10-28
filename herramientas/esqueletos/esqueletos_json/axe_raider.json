@@ -1,0 +1,34 @@
+{
+ "tipo": "bipedo_arma",
+ "pesos": "calor", "proxy": true, "voxel": 0.012, "isla_min": 0.003,
+ "limite": {"Shoulder": 0.12, "Arm": 0.09, "ForeArm": 0.08, "Hand": 0.08, "UpLeg": 0.14, "Leg": 0.12, "Foot": 0.08},
+ "nota": "Axe Raider: hacha grande en la mano derecha (lado -x), cruzada por delante; medido en vistas_medida (frente/lado/arriba)",
+ "huesos": [
+  {"n": "Hips", "h": [0, 0.4, 0.01], "t": [0, 0.5, 0.02]},
+  {"n": "Spine", "h": [0, 0.5, 0.02], "t": [0, 0.62, 0.03], "p": "Hips"},
+  {"n": "Spine1", "h": [0, 0.62, 0.03], "t": [0, 0.78, 0.02], "p": "Spine"},
+  {"n": "Neck", "h": [0, 0.78, 0.02], "t": [0, 0.84, 0.03], "p": "Spine1"},
+  {"n": "Head", "h": [0, 0.84, 0.03], "t": [0, 0.98, 0.03], "p": "Neck"},
+  {"n": "LeftShoulder", "h": [0.04, 0.77, 0.01], "t": [0.16, 0.78, 0.0], "p": "Spine1"},
+  {"n": "LeftArm", "h": [0.16, 0.78, 0.0], "t": [0.17, 0.63, -0.02], "p": "LeftShoulder"},
+  {"n": "LeftForeArm", "h": [0.17, 0.63, -0.02], "t": [0.15, 0.48, 0.0], "p": "LeftArm"},
+  {"n": "LeftHand", "h": [0.15, 0.48, 0.0], "t": [0.15, 0.42, 0.01], "p": "LeftForeArm"},
+  {"n": "RightShoulder", "h": [-0.04, 0.77, 0.01], "t": [-0.17, 0.78, 0.0], "p": "Spine1"},
+  {"n": "RightArm", "h": [-0.17, 0.78, 0.0], "t": [-0.22, 0.61, 0.02], "p": "RightShoulder"},
+  {"n": "RightForeArm", "h": [-0.22, 0.61, 0.02], "t": [-0.11, 0.53, 0.12], "p": "RightArm"},
+  {"n": "RightHand", "h": [-0.11, 0.53, 0.12], "t": [-0.05, 0.51, 0.17], "p": "RightForeArm"},
+  {"n": "Arma", "h": [-0.07, 0.52, 0.15], "t": [0.37, 0.98, 0.37], "p": "RightHand"},
+  {"n": "LeftUpLeg", "h": [0.08, 0.38, 0.0], "t": [0.15, 0.22, 0.03], "p": "Hips"},
+  {"n": "LeftLeg", "h": [0.15, 0.22, 0.03], "t": [0.19, 0.07, 0.0], "p": "LeftUpLeg"},
+  {"n": "LeftFoot", "h": [0.19, 0.07, 0.0], "t": [0.2, 0.02, 0.08], "p": "LeftLeg"},
+  {"n": "RightUpLeg", "h": [-0.08, 0.38, 0.0], "t": [-0.17, 0.22, 0.03], "p": "Hips"},
+  {"n": "RightLeg", "h": [-0.17, 0.22, 0.03], "t": [-0.19, 0.07, 0.0], "p": "RightUpLeg"},
+  {"n": "RightFoot", "h": [-0.19, 0.07, 0.0], "t": [-0.2, 0.02, 0.08], "p": "RightLeg"}
+ ],
+ "rigidos": [
+  {"hueso": "Arma", "a": [-0.15, 0.36, 0.06], "b": [-0.02, 0.52, 0.13], "radio": 0.035},
+  {"hueso": "Arma", "a": [-0.02, 0.52, 0.13], "b": [0.43, 1.04, 0.41], "radio": 0.085, "caja": [[-0.04, 0.42, 0.06], [0.09, 0.62, 0.22]]}
+ ],
+ "ragdoll": {"empuje": {"fuerza": 250, "dura": 0.15, "altura": 0.7}},
+ "lejos": {"dist": 0.08, "huesos": ["Hips", "Spine", "Spine1"]}
+}

@@ -1,0 +1,305 @@
+# dialogos.txt - Yugioh Classic Remaster, modo historia (rama classic-historia; lo lee src/historia_dialogos.h)
+# id|tipo|texto ES|texto EN
+#   tipo intro  : la escena antes del duelo (2 a 4 lineas, en orden; avanza con X)
+#   tipo pierde : la linea de cierre del rival cuando el JUGADOR gana
+#   tipo gana   : la linea de cierre del rival cuando el JUGADOR pierde
+#   id _final   : el final de la historia (tipo texto, en orden) y los creditos (tipo creditos, en orden)
+# Dialogos originales, inspirados en la personalidad de cada personaje (no son guiones de la serie).
+
+# ---------------------------------------------------------------- Reino de los Duelistas
+tea|intro|¡Hola! No suelo duelar, pero hoy quiero intentarlo.|Hi! I don't duel much, but today I want to try.
+tea|intro|Yugi siempre dice que las cartas responden a quien cree en ellas.|Yugi always says the cards answer those who believe in them.
+tea|intro|Así que... ¡prepárate, no pienso rendirme fácil!|So... get ready, I won't give up easily!
+tea|pierde|¡Buen duelo! Se nota que pones el corazón en cada carta.|Good duel! You can tell you put your heart into every card.
+tea|gana|¿Lo ves? Con amigos a tu lado, nada es imposible.|See? With friends by your side, nothing is impossible.
+
+mokuba|intro|¿Tú quieres llegar hasta mi hermano? Primero tienes que pasar por mí.|You want to reach my big brother? You'll have to get through me first.
+mokuba|intro|Seto me enseñó todo lo que sé sobre duelos.|Seto taught me everything I know about dueling.
+mokuba|intro|¡Te voy a demostrar que también soy un Kaiba!|I'll show you I'm a Kaiba too!
+mokuba|pierde|Bah... mi hermano te habría barrido de la mesa.|Hmph... my brother would have wiped the floor with you.
+mokuba|gana|¡Ja! ¡Espera a que se lo cuente a Seto!|Ha! Wait till I tell Seto!
+
+solomon|intro|Vaya, vaya. Un joven duelista en mi tienda.|Well, well. A young duelist in my shop.
+solomon|intro|He jugado a este juego desde mucho antes de que existieran los discos de duelo.|I've played this game since long before Duel Disks existed.
+solomon|intro|Veamos si respetas a tus cartas tanto como ellas te respetarán a ti.|Let's see if you respect your cards as much as they'll respect you.
+solomon|pierde|¡Ja, ja! Este viejo aún tiene mucho que aprender de la juventud.|Ha ha! This old man still has a lot to learn from the young.
+solomon|gana|La experiencia también es una carta, muchacho. Vuelve cuando quieras.|Experience is a card too, youngster. Come back anytime.
+
+weevil|intro|Jijiji... así que tú eres mi siguiente presa.|Heh heh heh... so you're my next prey.
+weevil|intro|Mis insectos ya están tejiendo su red alrededor de tu mazo.|My insects are already spinning their web around your deck.
+weevil|intro|Cuando te des cuenta, ya será demasiado tarde.|By the time you notice, it'll be far too late.
+weevil|pierde|¡Imposible! ¡Mi estrategia era perfecta! ¡Exijo la revancha!|Impossible! My strategy was perfect! I demand a rematch!
+weevil|gana|Jijiji... los insectos siempre heredan la tierra.|Heh heh heh... bugs always inherit the earth.
+
+rex_raptor|intro|¡Eh, tú! ¿Sabes qué reinó este planeta durante millones de años?|Hey, you! Know what ruled this planet for millions of years?
+rex_raptor|intro|¡Los dinosaurios! Y hoy vuelven para aplastarte.|Dinosaurs! And today they're back to crush you.
+rex_raptor|pierde|Grr... hasta el T-Rex se extinguió alguna vez.|Grr... even the T-Rex went extinct once.
+rex_raptor|gana|¡Pisoteado! ¡Así es la ley de la jungla prehistórica!|Stomped! That's the law of the prehistoric jungle!
+
+bonz|intro|Shhh... ¿lo oyes? Son los muertos que se levantan.|Shhh... hear that? It's the dead rising.
+bonz|intro|Sid y Zigor dicen que no tienes ninguna oportunidad.|Sid and Zigor say you don't stand a chance.
+bonz|intro|Lo que destruyas en este duelo... volverá por ti.|Whatever you destroy in this duel... will come back for you.
+bonz|pierde|¡Aaah! ¡Que alguien encienda la luz!|Aaah! Somebody turn on the lights!
+bonz|gana|Bienvenido al cementerio. Hay sitio de sobra.|Welcome to the graveyard. Plenty of room here.
+
+ryou_bakura|intro|Oh, hola. Perdona, a veces me distraigo con facilidad.|Oh, hello. Sorry, I get distracted easily sometimes.
+ryou_bakura|intro|Me encantan los juegos de rol... y los duelos también, claro.|I love role-playing games... and duels too, of course.
+ryou_bakura|intro|Seamos amables el uno con el otro, ¿vale?|Let's be nice to each other, all right?
+ryou_bakura|pierde|Qué bien juegas. Siento que algo en mí se quedó tranquilo.|You play really well. I feel like something inside me calmed down.
+ryou_bakura|gana|Vaya... no recuerdo bien cómo gané. Qué raro.|Huh... I don't quite remember how I won. How strange.
+
+mako|intro|¡El océano me dio la vida, y hoy me dará la victoria!|The ocean gave me life, and today it'll give me victory!
+mako|intro|Mi padre salió al mar y nunca volvió. Duelo por él.|My father sailed out and never came back. I duel for him.
+mako|intro|¡Que suba la marea!|Let the tide rise!
+mako|pierde|Hoy el mar estuvo de tu lado. Lo respeto.|The sea was on your side today. I respect that.
+mako|gana|¡Ningún marinero vence a la marea! ¡Ja, ja!|No sailor beats the tide! Ha ha!
+
+panik|intro|Aquí, en la oscuridad, yo veo... y tú no.|Here in the dark, I can see... and you can't.
+panik|intro|Muchos duelistas se fueron de esta isla sin sus estrellas.|Many duelists left this island without their star chips.
+panik|intro|Tú serás el siguiente.|You'll be next.
+panik|pierde|¡Esa luz! ¡Apágala! ¡Apágala ya!|That light! Turn it off! Turn it off now!
+panik|gana|Nadie escapa del castillo de la oscuridad.|No one escapes the castle of darkness.
+
+hermanos_paradoja|intro|Para salir del laberinto, debes vencernos a los dos.|To leave the labyrinth, you must defeat us both.
+hermanos_paradoja|intro|Uno de nosotros siempre dice la verdad...|One of us always tells the truth...
+hermanos_paradoja|intro|...y el otro siempre miente. ¿A quién creerás?|...and the other always lies. Which one will you believe?
+hermanos_paradoja|pierde|Imposible... ¡nuestra puerta estaba sellada!|Impossible... our door was sealed shut!
+hermanos_paradoja|gana|El laberinto se cierra. Te quedarás aquí para siempre.|The labyrinth closes. You'll stay here forever.
+
+shadi|intro|He venido a observar tu corazón.|I have come to look into your heart.
+shadi|intro|La Llave del Milenio abre cualquier puerta, incluso la de tu alma.|The Millennium Key opens any door, even the one to your soul.
+shadi|intro|Demuéstrame que tu espíritu es digno.|Show me that your spirit is worthy.
+shadi|pierde|Tu corazón es limpio. Los artículos del Milenio lo recordarán.|Your heart is pure. The Millennium Items will remember.
+shadi|gana|Aún hay sombras en tu interior. Vuelve cuando las hayas vencido.|There are still shadows within you. Return when you've overcome them.
+
+mai|intro|¿Otro aficionado que cree poder conmigo? Qué tierno.|Another amateur who thinks they can beat me? How cute.
+mai|intro|Yo no necesito amigos para ganar. Solo a mis Arpías.|I don't need friends to win. Just my Harpies.
+mai|intro|Intenta no aburrirme, ¿quieres?|Try not to bore me, okay?
+mai|pierde|Hmm. No está mal... para ser tú. La próxima vez no seré tan amable.|Hmm. Not bad... for you. Next time I won't be so nice.
+mai|gana|Elegancia y garras afiladas, cariño. Así se gana.|Elegance and sharp claws, darling. That's how you win.
+
+joey|intro|¡Ey! ¿Un duelo? ¡Claro que sí, amigo!|Hey! A duel? You bet, pal!
+joey|intro|Puede que no sea el mejor estratega, pero nunca me rindo.|I might not be the best strategist, but I never give up.
+joey|intro|¡Y la suerte siempre está de mi lado! ...Casi siempre.|And luck is always on my side! ...Almost always.
+joey|pierde|¡Arg! ¡Buen duelo! Pero la próxima te gano, ¡palabra!|Argh! Good duel! But I'll get you next time, I swear!
+joey|gana|¡Sí! ¡Joey Wheeler lo hace otra vez! ¿Lo viste, Yugi?|Yeah! Joey Wheeler does it again! Did you see that, Yugi?
+
+bandit_keith|intro|Escucha, chaval: en América el duelo es un negocio.|Listen, kid: in America, dueling is a business.
+bandit_keith|intro|Y yo siempre cobro.|And I always collect.
+bandit_keith|intro|No me mires las mangas. Mírame las cartas.|Don't look at my sleeves. Look at my cards.
+bandit_keith|pierde|Esto no ha terminado. Nadie le gana a Keith sin pagarlo.|This isn't over. Nobody beats Keith without paying for it.
+bandit_keith|gana|Otro novato que vuelve a casa sin nada. ¡Siguiente!|Another rookie goes home empty-handed. Next!
+
+kaiba|intro|Así que eres tú quien ha llegado tan lejos.|So you're the one who made it this far.
+kaiba|intro|No me importan tus amigos ni tus discursos. Solo importa el poder.|I don't care about your friends or your speeches. Only power matters.
+kaiba|intro|Y el poder absoluto tiene ojos azules.|And absolute power has blue eyes.
+kaiba|pierde|Esto no significa nada. Ganaste un duelo, no la guerra.|This means nothing. You won a duel, not the war.
+kaiba|gana|Patético. Vuelve cuando seas un duelista de verdad.|Pathetic. Come back when you're a real duelist.
+
+pegasus|intro|¡Bienvenido a mi isla, querido invitado!|Welcome to my island, my dear guest!
+pegasus|intro|Yo creé este juego. Conozco cada carta como a un viejo amigo.|I created this game. I know every card like an old friend.
+pegasus|intro|Y gracias a mi Ojo, también conozco cada una de las tuyas.|And thanks to my Eye, I know every one of yours too.
+pegasus|pierde|Oh, qué maravilla. No vi venir ese final. ¡Qué delicioso!|Oh, how marvelous. I didn't see that ending coming. Delightful!
+pegasus|gana|Tsk, tsk. Tu mente era un libro abierto, y bastante corto.|Tsk, tsk. Your mind was an open book, and quite a short one.
+
+# ---------------------------------------------------------------- Ciudad Batallas
+espa_roba|intro|Mis poderes psíquicos ya me dijeron qué vas a jugar.|My psychic powers already told me what you'll play.
+espa_roba|intro|Mis hermanitos creen en mí. No puedo fallarles.|My little brothers believe in me. I can't let them down.
+espa_roba|pierde|Lo siento, chicos... no tengo poderes. Solo quería que estuvierais orgullosos.|Sorry, guys... I don't have powers. I just wanted you to be proud.
+espa_roba|gana|¡Lo sabía! ¡Lo vi venir con mi mente!|I knew it! I saw it coming with my mind!
+
+duke|intro|¿Te gustan los juegos? Yo invento los míos.|Do you like games? I invent my own.
+duke|intro|Ciudad Batallas es el escaparate perfecto para el Duke Devlin.|Battle City is the perfect showcase for Duke Devlin.
+duke|intro|Tira los dados y veamos quién tiene estilo.|Roll the dice and let's see who has style.
+duke|pierde|Bien jugado. Pero yo sigo teniendo más fans.|Well played. But I still have more fans.
+duke|gana|Los dados nunca mienten. Y hoy dijeron mi nombre.|The dice never lie. And today they called my name.
+
+arkana|intro|Bienvenido a mi espectáculo de magia oscura.|Welcome to my show of dark magic.
+arkana|intro|El Mago Oscuro verdadero responde a mí, no a ese faraón.|The true Dark Magician answers to me, not to that pharaoh.
+arkana|intro|Que se levante el telón... y que caigan las cuchillas.|Raise the curtain... and let the blades fall.
+arkana|pierde|No... mi magia... ¿por qué me abandonó?|No... my magic... why did it abandon me?
+arkana|gana|Y así termina el truco: tú desapareces.|And so the trick ends: you disappear.
+
+lumis_umbra|intro|Somos dos, pero pensamos como uno.|We are two, but we think as one.
+lumis_umbra|intro|Las máscaras ven lo que tus ojos ocultan.|The masks see what your eyes hide.
+lumis_umbra|intro|Ponte la máscara de la derrota.|Put on the mask of defeat.
+lumis_umbra|pierde|Nuestras máscaras... se han roto.|Our masks... have shattered.
+lumis_umbra|gana|Bajo la máscara, solo había miedo.|Behind the mask, there was only fear.
+
+ishizu|intro|Te estaba esperando. El Collar del Milenio me mostró este momento.|I was expecting you. The Millennium Necklace showed me this moment.
+ishizu|intro|Sé cómo termina este duelo... o eso creo.|I know how this duel ends... or so I believe.
+ishizu|intro|Demuéstrame que el futuro puede cambiarse.|Show me that the future can be changed.
+ishizu|pierde|Has cambiado el destino. Hay esperanza para mi hermano.|You have changed fate. There is hope for my brother.
+ishizu|gana|El futuro ya estaba escrito. Lo siento.|The future was already written. I'm sorry.
+
+marik|intro|Mis Cazadores Raros me han hablado de ti.|My Rare Hunters have told me about you.
+marik|intro|Busco al Faraón, pero tú me servirás para calentar.|I'm looking for the Pharaoh, but you'll do as a warm-up.
+marik|intro|Con mi Cetro, hasta tus cartas pueden volverse contra ti.|With my Rod, even your cards can turn against you.
+marik|pierde|No eres el Faraón... pero eres más fuerte de lo que pensaba.|You're not the Pharaoh... but you're stronger than I thought.
+marik|gana|Te faltó voluntad. A mí me sobra.|You lacked the will. I have more than enough.
+
+yami_bakura|intro|Je, je... qué alma tan interesante.|Heh heh... what an interesting soul.
+yami_bakura|intro|El Anillo del Milenio me susurra tu nombre.|The Millennium Ring whispers your name to me.
+yami_bakura|intro|Juguemos. Si pierdes, te quedarás conmigo... en una figurita.|Let's play. If you lose, you'll stay with me... inside a little figurine.
+yami_bakura|pierde|Hoy ganas tú. Pero la oscuridad es paciente.|You win today. But darkness is patient.
+yami_bakura|gana|Otra pieza para mi colección. Je, je, je.|Another piece for my collection. Heh heh heh.
+
+yami_marik|intro|Ja, ja, ja... por fin, un nuevo juguete.|Ha ha ha... at last, a new toy.
+yami_marik|intro|Cada punto de vida que pierdas, lo sentirás de verdad.|Every life point you lose, you'll truly feel.
+yami_marik|intro|Mira al dragón del cielo... y desespera.|Gaze upon the dragon of the sky... and despair.
+yami_marik|pierde|¡No! ¡Las sombras... me están tragando a mí!|No! The shadows... they're swallowing me!
+yami_marik|gana|Tu mente se apaga. Qué hermoso sonido.|Your mind fades away. What a beautiful sound.
+
+# ---------------------------------------------------------------- Noah
+tristan|intro|Ni siquiera sé cómo terminé dentro de este robot... ni de este duelo.|I don't even know how I ended up in this robot body... or in this duel.
+tristan|intro|Pero si hay que pelear, ¡peleo!|But if there's a fight, I'm in!
+tristan|pierde|Vale, vale, tú ganas. ¡Pero no se lo cuentes a Joey!|Okay, okay, you win. But don't tell Joey!
+tristan|gana|¡Ja! ¿Quién dijo que solo sé pelear a puñetazos?|Ha! Who said I can only fight with my fists?
+
+serenity|intro|Antes casi no podía ver. Ahora quiero ver todo, hasta un duelo de cerca.|I could barely see before. Now I want to see everything, even a duel up close.
+serenity|intro|Mi hermano me enseñó a ser valiente. ¡Allá voy!|My brother taught me to be brave. Here I go!
+serenity|pierde|Qué duelo tan bonito. Gracias por no tenerme lástima.|What a lovely duel. Thank you for not going easy on me.
+serenity|gana|¡Gané! Espera a que se entere Joey.|I won! Wait till Joey hears about this.
+
+cinco_grandes|intro|Somos cinco mentes al mando de una sola baraja.|We are five minds commanding a single deck.
+cinco_grandes|intro|Kaiba nos echó de su empresa. Tú nos devolverás un cuerpo.|Kaiba threw us out of his company. You'll give us a body back.
+cinco_grandes|intro|La junta directiva vota... por tu derrota.|The board of directors votes... for your defeat.
+cinco_grandes|pierde|¡Reunión de emergencia! ¡Esto no estaba en el plan de negocio!|Emergency meeting! This wasn't in the business plan!
+cinco_grandes|gana|Moción aprobada por unanimidad. Quedas despedido.|Motion passed unanimously. You're fired.
+
+gozaburo|intro|Yo levanté un imperio de la nada.|I built an empire from nothing.
+gozaburo|intro|Ese chico al que llamas Kaiba solo heredó mis restos.|That boy you call Kaiba only inherited my scraps.
+gozaburo|intro|Arrodíllate ante el verdadero emperador.|Kneel before the true emperor.
+gozaburo|pierde|Imposible... el imperio no puede caer otra vez.|Impossible... the empire cannot fall again.
+gozaburo|gana|Así trato a los que se interponen en mi camino.|That's how I deal with those who stand in my way.
+
+noah|intro|Bienvenido a mi mundo. Aquí, yo controlo hasta el cielo.|Welcome to my world. Here, I control even the sky.
+noah|intro|Mi padre me eligió a mí antes que a Seto. Te lo voy a demostrar.|My father chose me before Seto. I'll prove it to you.
+noah|intro|Un juego más, para el niño que nunca creció.|One more game, for the boy who never grew up.
+noah|pierde|Así que esto es perder... es más humano de lo que creía.|So this is what losing feels like... more human than I thought.
+noah|gana|En mi mundo, la derrota es eterna. Bienvenido a casa.|In my world, defeat is eternal. Welcome home.
+
+# ---------------------------------------------------------------- El Despertar de los Dragones
+rebecca|intro|¡Soy la campeona de Estados Unidos! Y tengo un osito de la suerte.|I'm the U.S. champion! And I have a lucky teddy bear.
+rebecca|intro|Mi abuelo y Solomon eran compañeros de aventuras.|My grandpa and Solomon were adventure partners.
+rebecca|intro|¡Calculé cien jugadas! ...Bueno, noventa y nueve.|I calculated a hundred moves! ...Well, ninety-nine.
+rebecca|pierde|¡Hmpf! Solo te dejé ganar porque eres simpático.|Hmph! I only let you win because you're nice.
+rebecca|gana|¡Victoria! Los números nunca fallan.|Victory! Numbers never fail.
+
+valon|intro|¡Ey, amigo! Nada de discursos, ¡vamos al grano!|Hey, mate! No speeches, let's get to it!
+valon|intro|Mi armadura y yo pegamos fuerte.|My armor and I hit hard.
+valon|intro|Esto es por Mai. ¡En guardia!|This one's for Mai. On guard!
+valon|pierde|¡Buen golpe! Me sacudiste hasta la armadura.|Nice hit! You shook me right out of my armor.
+valon|gana|¡Así se pelea, con los puños por delante!|That's how you fight, fists first!
+
+alister|intro|Kaiba Corp destruyó mi hogar y se llevó a mi hermano.|Kaiba Corp destroyed my home and took my brother.
+alister|intro|Si te pones de su lado, caerás con ellos.|If you side with them, you'll fall with them.
+alister|intro|Mi fortaleza no tiene grietas.|My fortress has no cracks.
+alister|pierde|Quizá... la venganza no sea el camino.|Maybe... revenge isn't the way.
+alister|gana|Esto también es por mi hermano.|This one's for my brother too.
+
+rafael|intro|Perdí a mi familia en el mar. Solo me quedaron mis cartas.|I lost my family at sea. All I had left were my cards.
+rafael|intro|Mis Guardianes nunca me han fallado.|My Guardians have never failed me.
+rafael|intro|Atraviesa su defensa, si puedes.|Get through their defense, if you can.
+rafael|pierde|Mis cartas... siguen conmigo. Gracias por recordármelo.|My cards... they're still with me. Thank you for reminding me.
+rafael|gana|Una defensa así no se rompe con ilusiones.|A defense like this isn't broken by illusions.
+
+yugi|intro|Hola. Hoy el Faraón descansa: este duelo es solo mío.|Hi. The Pharaoh is resting today: this duel is all mine.
+yugi|intro|Quiero saber si puedo ganar con mi propio corazón.|I want to know if I can win with my own heart.
+yugi|intro|¡Demos lo mejor de nosotros!|Let's both give it our best!
+yugi|pierde|¡Qué duelo! Aprendí muchísimo. Gracias, de verdad.|What a duel! I learned so much. Thank you, really.
+yugi|gana|¡Lo conseguí! Creo que ya estoy listo para caminar solo.|I did it! I think I'm ready to walk on my own.
+
+dartz|intro|Durante diez mil años he esperado este momento.|For ten thousand years I have awaited this moment.
+dartz|intro|La humanidad está corrompida. El Leviatán la limpiará.|Humanity is corrupt. The Leviathan will cleanse it.
+dartz|intro|El Sello de Oricalco ya brilla bajo tus pies.|The Seal of Orichalcos already glows beneath your feet.
+dartz|pierde|Tal vez... los humanos sí merecían una oportunidad.|Perhaps... humans did deserve a chance.
+dartz|gana|Tu alma alimentará al Gran Leviatán.|Your soul will feed the Great Leviathan.
+
+# ---------------------------------------------------------------- Gran Campeonato KC
+leon|intro|¡Hola! Me encantan los cuentos de hadas.|Hi! I love fairy tales.
+leon|intro|Mi hermano dice que tengo que ganar sí o sí... pero yo solo quiero jugar bien.|My brother says I have to win no matter what... but I just want to play well.
+leon|intro|¡Había una vez un duelo increíble!|Once upon a time, there was an amazing duel!
+leon|pierde|Y vivieron felices... aunque yo perdiera. ¡Fue precioso!|And they lived happily ever after... even though I lost. It was lovely!
+leon|gana|¡Y colorín colorado, este duelo se ha acabado!|And that's the end of this duel's story!
+
+zigfried|intro|Zigfried von Schroeder, a tu servicio. Bueno, no tanto.|Zigfried von Schroeder, at your service. Well, not really.
+zigfried|intro|Este torneo es de Kaiba, pero el espectáculo es mío.|This tournament belongs to Kaiba, but the show is mine.
+zigfried|intro|¡Que suene la música de las Valquirias!|Let the music of the Valkyries play!
+zigfried|pierde|¡Qué ultraje! ¡Exijo revisar las reglas del torneo!|What an outrage! I demand a review of the tournament rules!
+zigfried|gana|Elegancia, rosas y una victoria impecable. Lo de siempre.|Elegance, roses and a flawless victory. The usual.
+
+# ---------------------------------------------------------------- Memorias del Faraón
+mana|intro|¡Hola! Soy aprendiz del gran Mahad.|Hi! I'm an apprentice of the great Mahad.
+mana|intro|Todavía se me escapa algún hechizo... ¡pero hoy me sale todo!|I still mess up a spell now and then... but today everything's going to work!
+mana|intro|¡Abracadabra!|Abracadabra!
+mana|pierde|¡Ups! Maestro, no mires, por favor...|Oops! Master, please don't look...
+mana|gana|¡Lo logré! ¡Mi maestro estaría orgulloso!|I did it! My master would be proud!
+
+kisara|intro|No quiero pelear... pero tampoco puedo huir.|I don't want to fight... but I can't run away either.
+kisara|intro|Hay una luz blanca dentro de mí que me protege.|There's a white light inside me that protects me.
+kisara|pierde|Gracias por no hacerme daño. Tu corazón es amable.|Thank you for not hurting me. Your heart is kind.
+kisara|gana|El dragón blanco me cuidó otra vez.|The white dragon watched over me again.
+
+bobasa|intro|¡Ah, un visitante! ¿Tienes hambre? Yo siempre tengo hambre.|Ah, a visitor! Are you hungry? I'm always hungry.
+bobasa|intro|Guardo la tumba del Faraón... y la despensa también.|I guard the Pharaoh's tomb... and the pantry too.
+bobasa|intro|¡Un duelo antes del banquete!|A duel before the feast!
+bobasa|pierde|Jo, jo. Bien. Ahora sí, a comer.|Ho ho. Fine. Now it's time to eat.
+bobasa|gana|¡Victoria con el estómago lleno! La mejor clase de victoria.|Victory on a full stomach! The best kind.
+
+aknamkanon|intro|Soy el padre del Faraón y el guardián de este reino.|I am the Pharaoh's father and the guardian of this kingdom.
+aknamkanon|intro|Cometí errores por proteger Egipto. No los repetiré.|I made mistakes to protect Egypt. I will not repeat them.
+aknamkanon|intro|Muéstrame la fuerza de tu corazón.|Show me the strength of your heart.
+aknamkanon|pierde|Mi hijo está en buenas manos si duelistas como tú lo acompañan.|My son is in good hands if duelists like you stand beside him.
+aknamkanon|gana|Aún no estás listo para cargar con el peso de un reino.|You are not ready to carry the weight of a kingdom.
+
+altos_sacerdotes|intro|Seis sacerdotes, seis artículos del Milenio.|Six priests, six Millennium Items.
+altos_sacerdotes|intro|Juramos proteger al Faraón con nuestras vidas.|We swore to protect the Pharaoh with our lives.
+altos_sacerdotes|intro|Si eres una amenaza, te detendremos aquí.|If you are a threat, we will stop you here.
+altos_sacerdotes|pierde|Tu fuerza es digna. Puedes seguir adelante.|Your strength is worthy. You may continue.
+altos_sacerdotes|gana|El consejo ha hablado. Retírate.|The council has spoken. Withdraw.
+
+mahad|intro|Soy Mahad, guardián del Anillo del Milenio.|I am Mahad, guardian of the Millennium Ring.
+mahad|intro|He jurado servir al Faraón en esta vida y en las siguientes.|I have sworn to serve the Pharaoh in this life and those to come.
+mahad|intro|Mi magia es su escudo. Ponla a prueba.|My magic is his shield. Put it to the test.
+mahad|pierde|Tu poder es real. Ve; el Faraón te necesitará.|Your power is real. Go; the Pharaoh will need you.
+mahad|gana|Mientras yo viva, nadie tocará al Faraón.|As long as I live, no one will touch the Pharaoh.
+
+sacerdote_seto|intro|Soy el sacerdote Seto, futuro rey de Egipto.|I am the priest Seto, future king of Egypt.
+sacerdote_seto|intro|Los monstruos duermen en el corazón de los hombres. Yo los despierto.|Monsters sleep in the hearts of men. I awaken them.
+sacerdote_seto|intro|Contempla al dragón blanco que nació de la luz.|Behold the white dragon born of light.
+sacerdote_seto|pierde|Tu ka es fuerte... más de lo que esperaba.|Your ka is strong... stronger than I expected.
+sacerdote_seto|gana|El poder pertenece a quien sabe usarlo.|Power belongs to those who know how to wield it.
+
+bakura_rey|intro|Soy Bakura, Rey de los Ladrones.|I am Bakura, King of Thieves.
+bakura_rey|intro|Todo lo que este palacio tiene se construyó sobre mi aldea.|Everything in this palace was built on top of my village.
+bakura_rey|intro|Hoy vengo a cobrar la deuda. Empezando por ti.|Today I've come to collect the debt. Starting with you.
+bakura_rey|pierde|Je... me has robado la victoria. Respeto a un buen ladrón.|Heh... you stole the victory from me. I respect a good thief.
+bakura_rey|gana|Todo lo tuyo ahora es mío. Así funciona esto.|Everything you had is mine now. That's how this works.
+
+zorc|intro|Soy Zorc Necrophades, la oscuridad que existió antes que la luz.|I am Zorc Necrophades, the darkness that existed before the light.
+zorc|intro|Los artículos del Milenio me han devuelto a este mundo.|The Millennium Items have returned me to this world.
+zorc|intro|Ningún dios, ningún faraón y ningún mortal me detendrá.|No god, no pharaoh and no mortal will stop me.
+zorc|pierde|¡Imposible! ¡La luz no puede vencer a la oscuridad eterna!|Impossible! Light cannot defeat eternal darkness!
+zorc|gana|El mundo se apaga. Y tú con él.|The world goes dark. And you with it.
+
+yami_yugi|intro|Has llegado muy lejos. Te he visto duelar en cada saga.|You've come a long way. I've watched you duel through every saga.
+yami_yugi|intro|Antes de volver al lugar al que pertenezco, necesito una última prueba.|Before I return to where I belong, I need one final test.
+yami_yugi|intro|Esta es la Batalla Ceremonial. Dame todo lo que tienes.|This is the Ceremonial Battle. Give me everything you've got.
+yami_yugi|intro|¡Es hora del duelo!|It's time to duel!
+yami_yugi|pierde|Has ganado. Ahora puedo descansar en paz, sabiendo que el juego sigue en buenas manos.|You've won. Now I can rest in peace, knowing the game is in good hands.
+yami_yugi|gana|Aún no. Cree en el corazón de las cartas... y vuelve a intentarlo.|Not yet. Believe in the heart of the cards... and try again.
+
+# ---------------------------------------------------------------- final de la historia (al vencer a todos)
+_final|texto|La Batalla Ceremonial ha terminado.|The Ceremonial Battle is over.
+_final|texto|Desde el Reino de los Duelistas hasta las Memorias del Faraón, venciste a cada rival que se cruzó en tu camino.|From Duelist Kingdom to the Memories of the Pharaoh, you defeated every rival who crossed your path.
+_final|texto|La oscuridad de Zorc se disipó y el espíritu del Faraón por fin encuentra la paz.|Zorc's darkness has faded and the Pharaoh's spirit finally finds peace.
+_final|texto|Pero el corazón de las cartas no descansa: siempre habrá un nuevo duelo esperándote.|But the heart of the cards never rests: there will always be a new duel waiting for you.
+_final|texto|¡Felicidades, Rey de los Juegos!|Congratulations, King of Games!
+_final|creditos|YUGIOH CLASSIC REMASTER|YUGIOH CLASSIC REMASTER
+_final|creditos|Un proyecto homebrew para PS5, hecho por fans.|A homebrew project for PS5, made by fans.
+_final|creditos|Diseño, programación y dirección: Netocool2006|Design, programming and direction: Netocool2006
+_final|creditos|Programación asistida: Claude (Anthropic)|Assisted programming: Claude (Anthropic)
+_final|creditos|Basado en el juego de cartas y la serie de Kazuki Takahashi.|Based on the card game and series by Kazuki Takahashi.
+_final|creditos|Gracias por jugar.|Thank you for playing.
+_final|desbloqueo|¡MODO DESAFÍO DESBLOQUEADO! Vuelve a retar a cualquier personaje con L1: empiezas con 4000 LP y el rival juega al máximo.|CHALLENGE MODE UNLOCKED! Rematch any character with L1: you start with 4000 LP and the opponent plays at full strength.

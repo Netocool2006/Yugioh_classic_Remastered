@@ -1,0 +1,16 @@
+YUGIOH CLASSIC REMASTER - PERSONAL USE NOTICE
+
+This is a personal, non-profit project, not affiliated with Konami.
+
+This program includes third-party materials: card art, names and card data belong to Konami
+Digital Entertainment, and the audio comes from Yu-Gi-Oh! Master Duel (Konami).
+"Yu-Gi-Oh!" is a trademark of its respective owners.
+
+PERSONAL USE: this installer and the files it installs are for personal, private use only.
+DO NOT REDISTRIBUTE: do not upload, share or sell them.
+
+Bundled open-source libraries (e.g. SDL3, zlib license) keep their own licenses, installed in the
+"licencias" and "datos\licenses" folders.
+
+By clicking "I accept" you confirm you will use the program for personal purposes only and will
+not redistribute it.
