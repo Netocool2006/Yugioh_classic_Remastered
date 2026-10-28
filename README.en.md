@@ -1,7 +1,23 @@
 
-Ver PS5: https://drive.google.com/file/d/12gWXilzDA6UYHZ_1jW5yFbbTKTfrUY3G/view?usp=drive_link
+Download Ver PS5: https://drive.google.com/file/d/12gWXilzDA6UYHZ_1jW5yFbbTKTfrUY3G/view?usp=drive_link
 
-Ver PC: https://drive.google.com/file/d/1a56wvZkwOvRUXh8CH60xqCVlZLphcnYL/view?usp=drive_link
+Download Ver PC: https://drive.google.com/file/d/1a56wvZkwOvRUXh8CH60xqCVlZLphcnYL/view?usp=drive_link
+
+
+<img width="1500" height="837" alt="01_portada" src="https://github.com/user-attachments/assets/b0708306-2151-4ef8-bda5-1f1984cd3461" />
+<img width="1920" height="1080" alt="11_figura_3d_abduccion" src="https://github.com/user-attachments/assets/0e0bad2a-07a3-42dc-a5b1-aac185bf7726" />
+<img width="2920" height="1920" alt="10_ataque_rafaga_blanca" src="https://github.com/user-attachments/assets/bdaa3fb8-c99b-40be-95b7-2ffaa3cbfde7" />
+<img width="1920" height="938" alt="09_equipo_circulo_y_rayo" src="https://github.com/user-attachments/assets/9859b10c-9635-4ace-99b5-33fd20505e68" />
+<img width="1920" height="1620" alt="08_efecto_raigeki" src="https://github.com/user-attachments/assets/cae8d4c5-af67-44be-87fc-a3a3d8be4b4f" />
+<img width="1920" height="1620" alt="07_efecto_espadas_de_luz" src="https://github.com/user-attachments/assets/f6141c4b-41d8-4a65-b53a-a0d44c39ce05" />
+<img width="960" height="540" alt="06_selector_de_cartas" src="https://github.com/user-attachments/assets/c6de6f04-346b-4b9a-a048-c70f8203e2e1" />
+<img width="960" height="540" alt="05_duelo_pregunta_fija" src="https://github.com/user-attachments/assets/f4affe0a-e5e9-4b34-b595-873c4d81d37c" />
+<img width="960" height="540" alt="04_duelo_figuras_3d" src="https://github.com/user-attachments/assets/34c4a2f5-a1fa-4c78-8eff-48657d1976ee" />
+<img width="1280" height="720" alt="03_constructor_lista_de_cartas" src="https://github.com/user-attachments/assets/cd502ca2-9b01-4302-97bf-ee71e1c9705e" />
+<img width="960" height="540" alt="02_constructor_mis_mazos" src="https://github.com/user-attachments/assets/b11314c5-07fe-477c-a158-37113ff3ff55" />
+<img width="1000" height="600" alt="12_calculo_de_dano_sobre_cartas" src="https://github.com/user-attachments/assets/639d06de-07a5-424c-b9f7-ecf15796e460" />
+
+
 
 # Yugioh Classic Remaster
 
