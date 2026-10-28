@@ -805,13 +805,4 @@ gamepad (XInput/DualSense) and the automatic icon switching, the pointer hiding 
 
 ---
 
-## 11. Legal notice
 
-Yu-Gi-Oh! is a trademark of Konami and Kazuki Takahashi. This repository is a personal, non-profit project for personal
-use. **It contains references and data from Konami** (names, texts and statistics of cards, tables of characters and
-decks) and **material translated from *Yu-Gi-Oh! Master Duel*** (timings, curves and effect structures, written as code and
-numeric data; its sprites, audio and effects are **not** in the repo). **It includes no images, audio or 3D models**: the
-assets (card faces, 3D figures, backgrounds, audio) live outside the repository and are not distributed. Backgrounds use
-CC0 textures (Poly Haven, ambientCG), the Epic Games *Niagara Examples Pack* effects are used under its Fab licence, fonts
-are OFL, and `stb_*` (public domain/MIT), SDL3 (zlib) and Sascha Willems' *PS5 Vulkan Template* base (MIT) are used; see
-`remake-ps5/third_party/LICENCIAS_*.md`. The owner will make this repository private again.
