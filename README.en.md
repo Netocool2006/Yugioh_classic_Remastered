@@ -11,7 +11,7 @@ characters of the original series. Versions for **PS5** (homebrew, title `PPSA77
 
 > Notice: personal, non-profit project for personal use. It contains references and data from Konami and material
 > translated from *Master Duel*; the owner will make this repository private again. **It includes no images, audio or 3D
-> models** (assets live outside the repo). See [Legal notice](#11-legal-notice).
+> models** (assets live outside the repo).
 
 ---
 
@@ -27,7 +27,6 @@ characters of the original series. Versions for **PS5** (homebrew, title `PPSA77
 8. [PC version (Windows)](#8-pc-version-windows)
 9. [Duel log and diagnostic tools](#9-duel-log-and-diagnostic-tools)
 10. [Design decisions, lessons and open items](#10-design-decisions-lessons-and-open-items)
-11. [Legal notice](#11-legal-notice)
 
 Notes on this document: everything below comes from reading the code, the documents in `remake-ps5/docs/` and the data in
 the repo. Where something **could not be verified** (because it depends on the console, on external assets or on not

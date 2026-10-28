@@ -11,7 +11,7 @@ de *Yu-Gi-Oh! Master Duel* y un modo historia con los personajes de la serie ori
 
 > Aviso: proyecto personal, sin fines de lucro, de uso personal. Contiene referencias y datos de Konami y material
 > traducido de *Master Duel*; el dueño volverá este repositorio privado. **No incluye imágenes, audios ni modelos 3D**
-> (los assets viven fuera del repo). Ver [Aviso legal](#11-aviso-legal).
+> (los assets viven fuera del repo).
 
 ---
 
@@ -27,7 +27,6 @@ de *Yu-Gi-Oh! Master Duel* y un modo historia con los personajes de la serie ori
 8. [Versión PC (Windows)](#8-versión-pc-windows)
 9. [Bitácora del duelo y herramientas de diagnóstico](#9-bitácora-del-duelo-y-herramientas-de-diagnóstico)
 10. [Decisiones de diseño, lecciones y pendientes](#10-decisiones-de-diseño-lecciones-y-pendientes)
-11. [Aviso legal](#11-aviso-legal)
 
 Notas sobre este documento: todo lo que sigue sale de leer el código y los documentos de `remake-ps5/docs/` y de los
 datos del repo. Donde algo **no se pudo verificar** (porque depende de la consola, de assets externos o de no haber
