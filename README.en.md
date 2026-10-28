@@ -22,7 +22,7 @@ characters of the original series. Versions for **PS5** (homebrew, title `PPSA77
 3. [Duel architecture and pacing rules](#3-duel-architecture-and-pacing-rules)
 4. [Data: `remake-ps5/datos` and `classic-assets`](#4-data-remake-ps5datos-and-classic-assets)
 5. [Build chain (compile, package, upload)](#5-build-chain-compile-package-upload)
-6. ["How do I do X" guides](#6-how-do-i-do-x-guides)
+6. ["How do I do X" guides](#6-how-do-i-do-x-guides) (the opponent's AI in detail: [`docs/AI.md`](docs/AI.md))
 7. [Tests](#7-tests)
 8. [PC version (Windows)](#8-pc-version-windows)
 9. [Duel log and diagnostic tools](#9-duel-log-and-diagnostic-tools)
@@ -547,6 +547,8 @@ Constants are named: `control::DURACION_ROBO`, `DURACION_ROBO_RIVAL`, `DURACION_
 
 ### 6.8 Change difficulty and the AI
 
+> Full AI document (layers, levels, plans, decks, combat, network, tests and levers): [`docs/AI.md`](docs/AI.md).
+
 - **Levels 1-8** of the opponents: `rivales_gen.py` (ATK ceiling per level, tributes, themes) and `Cerebro::ruido()` (520
   noise points at level 1, 86 at level 8). Table in `docs/rivales.md`.
 - **Personality**: aggressive, defensive, bluffer, patient, reckless, calculating, balanced (`Cerebro` weights).
@@ -805,4 +807,13 @@ gamepad (XInput/DualSense) and the automatic icon switching, the pointer hiding 
 
 ---
 
+## 11. Legal notice
 
+Yu-Gi-Oh! is a trademark of Konami and Kazuki Takahashi. This repository is a personal, non-profit project for personal
+use. **It contains references and data from Konami** (names, texts and statistics of cards, tables of characters and
+decks) and **material translated from *Yu-Gi-Oh! Master Duel*** (timings, curves and effect structures, written as code and
+numeric data; its sprites, audio and effects are **not** in the repo). **It includes no images, audio or 3D models**: the
+assets (card faces, 3D figures, backgrounds, audio) live outside the repository and are not distributed. Backgrounds use
+CC0 textures (Poly Haven, ambientCG), the Epic Games *Niagara Examples Pack* effects are used under its Fab licence, fonts
+are OFL, and `stb_*` (public domain/MIT), SDL3 (zlib) and Sascha Willems' *PS5 Vulkan Template* base (MIT) are used; see
+`remake-ps5/third_party/LICENCIAS_*.md`. The owner will make this repository private again.

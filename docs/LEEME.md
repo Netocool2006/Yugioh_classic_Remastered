@@ -30,6 +30,7 @@ actuales / a log of a branch, cycle or closed decision; useful for the "why", bu
 
 | Documento | Tema / Topic | Estado |
 |---|---|---|
+| [IA.md](IA.md) · [AI.md](AI.md) | **Capítulo completo de la IA del rival**: capas, niveles, planes, mazos, combate y respuesta, red, pruebas y palancas / Full chapter on the opponent's AI | vigente |
 | [ia_red.md](../remake-ps5/docs/ia_red.md) | Red de valor, entrenamiento por autojuego, ajuste fino al jugador / Value network, self-play training | vigente |
 | [jugador_humano.md](../remake-ps5/docs/jugador_humano.md) | Probador que juega como una persona (oráculos `CU-HU-*`) / Human-like test player | vigente |
 

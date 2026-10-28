@@ -22,7 +22,7 @@ de *Yu-Gi-Oh! Master Duel* y un modo historia con los personajes de la serie ori
 3. [Arquitectura del duelo y reglas de ritmo](#3-arquitectura-del-duelo-y-reglas-de-ritmo)
 4. [Datos: `remake-ps5/datos` y `classic-assets`](#4-datos-remake-ps5datos-y-classic-assets)
 5. [Cadena de construcción (compilar, empaquetar, subir)](#5-cadena-de-construcción-compilar-empaquetar-subir)
-6. [Guías "cómo hago X"](#6-guías-cómo-hago-x)
+6. [Guías "cómo hago X"](#6-guías-cómo-hago-x) (la IA del rival, en detalle: [`docs/IA.md`](docs/IA.md))
 7. [Pruebas](#7-pruebas)
 8. [Versión PC (Windows)](#8-versión-pc-windows)
 9. [Bitácora del duelo y herramientas de diagnóstico](#9-bitácora-del-duelo-y-herramientas-de-diagnóstico)
@@ -32,7 +32,7 @@ de *Yu-Gi-Oh! Master Duel* y un modo historia con los personajes de la serie ori
 Notas sobre este documento: todo lo que sigue sale de leer el código y los documentos de `remake-ps5/docs/` y de los
 datos del repo. Donde algo **no se pudo verificar** (porque depende de la consola, de assets externos o de no haber
 compilado en esta pasada) se dice explícitamente. Los documentos de detalle están indexados en
-[`docs/LEEME.md`](docs/LEEME.md). Las rutas del contenedor (`/compartido`, `/work`) son las del entorno de desarrollo;
+[`docs/LEEME.md`](docs/LEEME.md); la inteligencia artificial del rival tiene su propio capítulo en [`docs/IA.md`](docs/IA.md). Las rutas del contenedor (`/compartido`, `/work`) son las del entorno de desarrollo;
 `<carpeta del proyecto>` es la raíz del repo.
 
 ---
@@ -552,6 +552,8 @@ humano en `cu_humano.h`). La opción de velocidad (x1.75, x2.75) escala todo sin
 
 ### 6.8 Cambiar la dificultad y la IA
 
+> Documento completo de la IA (capas, niveles, planes, mazos, combate, red, pruebas y palancas): [`docs/IA.md`](docs/IA.md).
+
 - **Niveles 1-8** de los rivales: `rivales_gen.py` (techo de ATK por nivel, tributo, temas) y `Cerebro::ruido()` (520
   puntos de ruido a nivel 1, 86 a nivel 8). Tabla en `docs/rivales.md`.
 - **Personalidad**: agresivo, defensivo, farolero, paciente, temerario, calculador, equilibrado (pesos del `Cerebro`).
@@ -814,3 +816,13 @@ DPI.
 
 ---
 
+## 11. Aviso legal
+
+Yu-Gi-Oh! es una marca de Konami y Kazuki Takahashi. Este repositorio es un proyecto personal, sin fines de lucro y de uso
+personal. **Contiene referencias y datos de Konami** (nombres, textos y estadísticas de cartas, tablas de personajes y
+mazos) y **material traducido de *Yu-Gi-Oh! Master Duel*** (tiempos, curvas y estructuras de efectos, escritos como código
+y datos numéricos; sus sprites, audio y efectos **no** están en el repo). **No incluye imágenes, audios ni modelos 3D**:
+los assets (caras de cartas, figuras 3D, fondos, audio) viven fuera del repositorio y no se distribuyen. Los fondos usan
+texturas CC0 (Poly Haven, ambientCG), los efectos del *Niagara Examples Pack* de Epic Games se usan bajo su licencia de
+Fab, las fuentes son OFL, y se usan `stb_*` (dominio público/MIT), SDL3 (zlib) y la base *PS5 Vulkan Template* de Sascha
+Willems (MIT); ver `remake-ps5/third_party/LICENCIAS_*.md`. El dueño volverá este repositorio privado.
