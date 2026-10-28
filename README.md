@@ -816,13 +816,3 @@ DPI.
 
 ---
 
-## 11. Aviso legal
-
-Yu-Gi-Oh! es una marca de Konami y Kazuki Takahashi. Este repositorio es un proyecto personal, sin fines de lucro y de uso
-personal. **Contiene referencias y datos de Konami** (nombres, textos y estadísticas de cartas, tablas de personajes y
-mazos) y **material traducido de *Yu-Gi-Oh! Master Duel*** (tiempos, curvas y estructuras de efectos, escritos como código
-y datos numéricos; sus sprites, audio y efectos **no** están en el repo). **No incluye imágenes, audios ni modelos 3D**:
-los assets (caras de cartas, figuras 3D, fondos, audio) viven fuera del repositorio y no se distribuyen. Los fondos usan
-texturas CC0 (Poly Haven, ambientCG), los efectos del *Niagara Examples Pack* de Epic Games se usan bajo su licencia de
-Fab, las fuentes son OFL, y se usan `stb_*` (dominio público/MIT), SDL3 (zlib) y la base *PS5 Vulkan Template* de Sascha
-Willems (MIT); ver `remake-ps5/third_party/LICENCIAS_*.md`. El dueño volverá este repositorio privado.
