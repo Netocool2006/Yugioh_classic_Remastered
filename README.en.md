@@ -1,3 +1,8 @@
+
+Ver PS5: https://drive.google.com/file/d/12gWXilzDA6UYHZ_1jW5yFbbTKTfrUY3G/view?usp=drive_link
+
+Ver PC: https://drive.google.com/file/d/1a56wvZkwOvRUXh8CH60xqCVlZLphcnYL/view?usp=drive_link
+
 # Yugioh Classic Remaster
 
 **English** | [Español](README.md)
